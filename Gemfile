@@ -6,3 +6,6 @@ ruby '2.1.0'
 # https://github.com/github/pages-gem/blob/master/github-pages.gemspec
 
 gem 'github-pages'
+gem 'sass'
+
+gem 'foreman'     # "foreman start" our Procfile
