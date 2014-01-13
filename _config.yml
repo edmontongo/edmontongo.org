@@ -8,7 +8,7 @@ timezone: America/Edmonton
 exclude: ["Gemfile", "Gemfile.lock", "goedmonton.sublime-project"]
 
 future: true
-permalink: :title
+permalink: :year-:month
 relative_permalinks: false
 
 markdown: redcarpet

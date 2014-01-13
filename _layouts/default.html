@@ -2,43 +2,44 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+  <title>Edmonton Go: {{ page.title }}</title>
   <link rel="stylesheet" href="/assets/all.css">
 </head>
 <body>
+
+  <h1><a href="/">Edmonton Go</a></h1>
 
   <div id="page">
     {{ content }}
   </div>
 
+  <aside>
 
+    <p>Hosted by Startup Edmonton<br>
+    <a href="https://goo.gl/maps/Qp7x8">Suite 301, 10359 - 104 Street</a><br>
+    Forth Monday of each month at 6:30 pm.</p>
 
+    <nav class="horizontal">
+      <ul>
+        <li><a href="http://startupedmonton.com/" class="startup-edmonton">Startup Edmonton</a></li>
+        <li><a href="https://twitter.com/edmontongo" class="webicon twitter">Twitter</a></li>
+        <li><a href="https://plus.google.com/communities/117762797477294931026" class="webicon googleplus">Community on Google+</a></li>
+        <li><a href="https://github.com/edmontongo" class="webicon github">GitHub</a></li>
+      </ul>
+    </nav>
 
-  <p>Hosted by Startup Edmonton<br>
-  <a href="https://goo.gl/maps/Qp7x8">Suite 301, 10359 - 104 Street</a><br>
-  Forth Monday of each month at 6:30 pm.</p>
+    <h3>Other Meetups</h3>
 
-  <nav class="horizontal">
-    <ul>
-      <li><a href="http://startupedmonton.com/" class="startup-edmonton">Startup Edmonton</a></li>
-      <li><a href="https://twitter.com/edmontongo" class="webicon twitter">Twitter</a></li>
-      <li><a href="https://plus.google.com/communities/117762797477294931026" class="webicon googleplus">Community on Google+</a></li>
-      <li><a href="https://github.com/edmontongo" class="webicon github">GitHub</a></li>
-    </ul>
-  </nav>
+    <nav class="vertical">
+      <ul>
+        <li><a href="http://www.exchangejs.com/">Exchange.js</a></li>
+        <li><a href="http://edmontonpy.com/">Edmonton.py</a></li>
+        <li><a href="http://yegrb.com/">YEGRB</a></li>
+        <li><a href="http://softwareprocess.es/static/EdmontonProgrammingUserGroups.html">More</a></li>
+      </ul>
+    </nav>
 
-</p>
-
-  <h3>Other Meetups</h3>
-
-  <nav class="vertical">
-    <ul>
-      <li><a href="http://www.exchangejs.com/">Exchange.js</a></li>
-      <li><a href="http://edmontonpy.com/">Edmonton.py</a></li>
-      <li><a href="http://yegrb.com/">YEGRB</a></li>
-      <li><a href="http://softwareprocess.es/static/EdmontonProgrammingUserGroups.html">More</a></li>
-    </ul>
-  </nav>
+  </aside>
 
   {% include analytics.html %}
 

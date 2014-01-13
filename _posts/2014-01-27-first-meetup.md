@@ -7,3 +7,12 @@ layout: article
 ---
 
 [RSVP](http://www.meetup.com/startupedmonton/events/153065012/)
+
+## Talks
+
+TBD
+
+## News
+
+Coming Soon
+
