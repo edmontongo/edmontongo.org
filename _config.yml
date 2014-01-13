@@ -1,0 +1,28 @@
+name: Go Edmonton
+url: http://goedmoton.org/
+
+safe: true
+lsi: false
+pygments: true
+timezone: America/Edmonton
+exclude: ["Gemfile", "Gemfile.lock", "goedmonton.sublime-project"]
+
+future: true
+permalink: :title
+relative_permalinks: false
+
+markdown: redcarpet
+
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - tables
+    - fenced_code_blocks
+    - disable_indented_code_blocks
+    - autolink
+    - strikethrough
+    - lax_spacing
+    - superscript
+    - with_toc_data
+
+gauges_id: 52d35022eddd5b04ef003140
