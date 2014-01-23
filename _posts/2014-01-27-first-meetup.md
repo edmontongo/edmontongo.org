@@ -16,7 +16,7 @@ We will refactor some procedural code, learning how to use types and methods in 
 
 *This talk is suitable for programmers new to the Go language.*
 
-### Concurrency Is Not Parallelism [@rob_pike](https://twitter.com/rob_pike) (video)
+### Concurrency Is Not Parallelism [@rob_pike](https://twitter.com/rob_pike) ([video](https://vimeo.com/49718712), [slides](http://talks.golang.org/2012/waza.slide#1))
   
 Rob Pike explains how concurrency is a way of thinking that can enable parallel execution. He then presents a complete load balancer.
 
