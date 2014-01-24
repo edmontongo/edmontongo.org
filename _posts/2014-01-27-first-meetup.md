@@ -10,13 +10,13 @@ layout: article
 
 ## Talks
 
-### Celsius: Types Are Cool [@nathany](https://twitter.com/nathany)
+### Celsius: Types Are Cool [@nathany](https://twitter.com/nathany) ([code](https://github.com/edmontongo/presentations/tree/master/2014-01/celsius))
 
 We will refactor some procedural code, learning how to use types and methods in Go.
 
 *This talk is suitable for programmers new to the Go language.*
 
-### Concurrency Is Not Parallelism [@rob_pike](https://twitter.com/rob_pike) ([video](https://vimeo.com/49718712), [slides](http://talks.golang.org/2012/waza.slide#1))
+### Concurrency Is Not Parallelism [@rob_pike](https://twitter.com/rob_pike) ([video](https://vimeo.com/49718712), [slides](http://talks.golang.org/2012/waza.slide#1), [code](https://github.com/edmontongo/presentations/tree/master/2014-01/robpike))
   
 Concurrency is a way of structuring code that can enable parallel execution. After a number of seemingly silly examples, Rob Pike wraps up with a complete load balancer written in Go.
 
