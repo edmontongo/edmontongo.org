@@ -20,7 +20,7 @@ We will refactor some procedural code, learning how to use types and methods in 
   
 Concurrency is a way of structuring code that can enable parallel execution. After a number of seemingly silly examples, Rob Pike wraps up with a complete load balancer written in Go.
 
-*The load balance code will be available to examine, run and discuss after the video.  The example is fairly advanced, but the principals can be understood by all.*
+*The load balancer code will be available to examine, run and discuss after the video.  The example is fairly advanced, but the principals can be understood by all.*
 
 *Popcorn and beverages to be provided.*
 
