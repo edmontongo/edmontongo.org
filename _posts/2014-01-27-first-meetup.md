@@ -10,7 +10,7 @@ layout: article
 
 ## Talks
 
-### Celsius: Types Are Cool [@nathany](https://twitter.com/nathany) ([code](https://github.com/edmontongo/presentations/tree/master/2014-01/celsius))
+### Celsius: Types Are Cool [@nathany](https://twitter.com/nathany) ([code](https://github.com/edmontongo/presentations/tree/master/2014-01/celsius), [rate](http://spkr8.com/t/28831)) 
 
 We will refactor some procedural code, learning how to use types and methods in Go.
 
