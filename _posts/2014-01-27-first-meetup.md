@@ -26,8 +26,9 @@ Concurrency is a way of structuring code that can enable parallel execution. Aft
 
 ## News &amp; Events
 
-* [Go Newsletter 2013 wrap-up](http://www.golangweekly.com/archive/go-newsletter-2013-wrap-up/) 
 * [GopherCasts](https://gophercasts.io/)
+* [Baby Gopher](http://www.babygopher.org/)
+* [Go Newsletter 2013 wrap-up](http://www.golangweekly.com/archive/go-newsletter-2013-wrap-up/) 
 * [GopherCon](http://www.gophercon.com/) April 24-26 in Denver $299 USD
 * [dotGo](http://www.dotgo.eu/) October 10 in Paris 79 &euro;
 * [Edmonton Go](http://www.meetup.com/startupedmonton/events/qfwsfhysdbgc/) February 24 ([propose a talk](https://github.com/edmontongo/presentations/issues/1))
