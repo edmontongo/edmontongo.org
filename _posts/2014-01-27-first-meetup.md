@@ -2,7 +2,7 @@
 title: January 2014 Meetup
 date: 2014/01/27
 tags: golang, user group
-excerpt: First meetup.
+excerpt: Types & Concurrency
 layout: article
 ---
 
