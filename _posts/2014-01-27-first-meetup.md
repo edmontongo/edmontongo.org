@@ -6,8 +6,6 @@ excerpt: Types & Concurrency
 layout: article
 ---
 
-[RSVP](http://www.meetup.com/startupedmonton/events/153065012/)
-
 ## Talks
 
 ### Celsius: Types Are Cool [@nathany](https://twitter.com/nathany) ([video](https://vimeo.com/86278568), [code](https://github.com/edmontongo/presentations/tree/master/2014-01/celsius)) 
@@ -22,7 +20,7 @@ Concurrency is a way of structuring code that can enable parallel execution. Aft
 
 *The load balancer code will be available to examine, run and discuss after the video.  The example is fairly advanced, but the principals can be understood by all.*
 
-*Popcorn and beverages to be provided.*
+*Popcorn and beverages to be provided. Pizza provided by [Jobber](http://getjobber.com/).*
 
 ## News &amp; Events
 
