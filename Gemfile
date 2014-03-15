@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.1.0'
+ruby '2.1.1'
 
 # Jekyll on GitHub Pages
 # https://help.github.com/articles/using-jekyll-with-pages
