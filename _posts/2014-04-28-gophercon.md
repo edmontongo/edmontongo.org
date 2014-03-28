@@ -2,7 +2,7 @@
 title: April 2014 Meetup
 date: 2014/04/28
 tags: golang, user group, meetup
-excerpt: hi
+excerpt: Mocking, generic Go and GopherCon.
 layout: article
 ---
 
@@ -16,7 +16,7 @@ A look at the httptest and sqlmock packages.
 
 ### Generic Map [@abramh](https://twitter.com/abramh) ([video](https://www.youtube.com/watch?v=RyPJFx-35LQ))
 
-A lecture on the Generic Map function in Go.
+A lecture on a generic map function in Go.
 
 ### GopherCon [@fnichol](https://twitter.com/fnichol), [@nathany](https://twitter.com/nathany)
 
