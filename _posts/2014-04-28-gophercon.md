@@ -26,6 +26,7 @@ Highlights from the conference.
 
 * [Go, Martini and Gophercasts with Jeremy Saenz](http://thechangelog.com/117/) Changelog podcast #117
 * [GopherCon talks](https://github.com/gophercon/2014-talks)
+* [GCC 4.9 includes Go 1.2.1](http://gcc.gnu.org/gcc-4.9/changes.html)
 * Job board at [golangprojects.com](http://www.golangprojects.com/) ([Twitter](https://twitter.com/golangprojects))
 * More news at [Golang Weekly](http://www.golangweekly.com/) and [Newspaper.IO](http://www.newspaper.io/golang)
 
