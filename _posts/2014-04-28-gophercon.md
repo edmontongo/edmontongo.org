@@ -69,5 +69,5 @@ Highlights from the conference.
 ## Events
 
 * [Go bootcamp](http://www.polyglotconf.com/#workshop-golang) at Polyglot Unconference - May 23rd-25th in Vancouver $275 + $50.
-* [dotGo](http://www.dotgo.eu/) - October 10 in Paris 119 &euro;
+* [dotGo](http://www.dotgo.eu/) - October 10 in Paris 139 &euro;
 * Edmonton Go - May 26
