@@ -1,14 +1,14 @@
 {
-  "folders":
-  [
-    {
-      "folder_exclude_patterns":
-      [
-        ".bundle",
-        "_site",
-        ".sass-cache"
-      ],
-      "path": "."
-    }
-  ]
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				".bundle",
+				"_site",
+				".sass-cache"
+			],
+			"path": "."
+		}
+	]
 }
