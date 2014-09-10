@@ -27,6 +27,8 @@ Packages in the Go language and the surrounding tools.
 
 ## Events
 
+* Wednesday Hack Nights - starting September 17 @ 6 p.m.
+* Startup Edmonton Hackathon - October 4
 * Edmonton Go - October 27 ([Planning](https://github.com/edmontongo/presentations/issues/13))
 
 ## Resources
