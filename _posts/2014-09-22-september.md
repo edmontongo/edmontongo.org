@@ -6,15 +6,15 @@ excerpt: Docker, Templates, Packages.
 layout: article
 ---
 
-Please **RSVP** at [Meetup](http://www.meetup.com/startupedmonton/events/199276992/) and/or [Google+](https://plus.google.com/events/cc2emrbrmvg6sa9f8svlu2tu2k4).
+Please **RSVP** at [Meetup](http://www.meetup.com/startupedmonton/events/199276992/) and/or [Google+](https://plus.google.com/events/cc2emrbrmvg6sa9f8svlu2tu2k4). 
+
+We get started at 6:30 pm, pizza is provided.
 
 ## Talks
 
 ### Docker [@fnichol](https://twitter.com/fnichol)
 
-Docker has been taking the cloud by storm. Come learn about containers and distributed applications. 
-
-Docker is one of many cloud infrastructure tools written in Go.
+Docker has been *taking the cloud by storm.* Come learn about containers and distributed applications. 
 
 ### HTML Templates [@MatthiasStone](https://twitter.com/MatthiasStone)
 
@@ -27,7 +27,7 @@ Packages in the Go language and the surrounding tools.
 
 ## Events
 
-* Wednesday Hack Nights - starting September 17 @ 6 p.m.
+* Wednesday Hack Nights - starting September 17 @ 6 pm
 * Startup Edmonton Hackathon - October 4
 * Edmonton Go - October 27 ([Planning](https://github.com/edmontongo/presentations/issues/13))
 
