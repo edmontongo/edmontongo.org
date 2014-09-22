@@ -16,6 +16,11 @@ We get started at 6:30 pm, pizza is provided.
 
 Docker has been *taking the cloud by storm.* Come learn about containers and distributed applications. 
 
+Related:
+
+* [Why Did Docker Catch on Quickly and Why is it so Interesting?](http://thenewstack.io/why-did-docker-catch-on-quickly-and-why-is-it-so-interesting/)
+* [Docker closes $40M Series C funding](https://blog.docker.com/2014/09/docker-closes-40m-series-c-led-by-sequoia/)
+
 ### HTML Templates [@MatthiasStone](https://twitter.com/MatthiasStone)
 
 Building on the introduction to text/template from June, Matthias will show us how to use the HTML template facilities that come with the Go standard library.
@@ -24,16 +29,19 @@ Building on the introduction to text/template from June, Matthias will show us h
 
 Packages in the Go language and the surrounding tools.
 
+Related:
+
+* [Contributing to Open Source Git Repositories in Go](https://blog.splice.com/contributing-open-source-git-repositories-go/) by Katrina Owen
+* [Organizing Go Code](http://talks.golang.org/2014/organizeio.slide#1) by David Crawshaw
+* [Support development branches in Gopkg.in](https://github.com/niemeyer/gopkg/issues/25)
+* [Making godep save always copy code](https://docs.google.com/document/d/1Dxo9PHfNVETus0UCAuviysZZAr2Hv_vPBMK1-9jBU4M/edit)
+
 ## News
 
 * [The Happiness Manifesto](https://github.com/scottefein/the-happiness-manifesto)
 * [Go Users' Survey 2014](https://docs.google.com/forms/d/1FLPeANe5Dwqz473lgdxxdc6xumDKTQ7KEqmRvazm2a4/viewform) ([Responses](https://docs.google.com/forms/d/1FLPeANe5Dwqz473lgdxxdc6xumDKTQ7KEqmRvazm2a4/viewanalytics))
 * [Gopher Interviews](http://list.ly/list/Pak-gopher-interviews)
 * [Ollie connected toy](http://www.gosphero.com/ollie/)
-* [Why Did Docker Catch on Quickly and Why is it so Interesting?](http://thenewstack.io/why-did-docker-catch-on-quickly-and-why-is-it-so-interesting/)
-* [Docker closes $40M Series C funding](https://blog.docker.com/2014/09/docker-closes-40m-series-c-led-by-sequoia/)
-* [Support development branches in Gopkg.in](https://github.com/niemeyer/gopkg/issues/25)
-* [Making godep save always copy code](https://docs.google.com/document/d/1Dxo9PHfNVETus0UCAuviysZZAr2Hv_vPBMK1-9jBU4M/edit)
 
 ## Articles
 
@@ -42,8 +50,6 @@ Packages in the Go language and the surrounding tools.
 * [Things are Mostly the Same: Differences](https://www.facebook.com/notes/kent-beck/things-are-mostly-the-same-differences/824835944215938) by Kent Beck
 * [How I Start Go](http://howistart.org/posts/go/1) by Peter Bourgon
 * [How Stacks are Handled in Go](http://blog.cloudflare.com/how-stacks-are-handled-in-go/) by Daniel Morsing
-* [Contributing to Open Source Git Repositories in Go](https://blog.splice.com/contributing-open-source-git-repositories-go/) by Katrina Owen
-* [Organizing Go Code](http://talks.golang.org/2014/organizeio.slide#1) by David Crawshaw
 
 ## Events
 
