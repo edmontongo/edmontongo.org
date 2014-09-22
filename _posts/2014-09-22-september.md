@@ -43,6 +43,7 @@ Packages in the Go language and the surrounding tools.
 * [How I Start Go](http://howistart.org/posts/go/1) by Peter Bourgon
 * [How Stacks are Handled in Go](http://blog.cloudflare.com/how-stacks-are-handled-in-go/) by Daniel Morsing
 * [Contributing to Open Source Git Repositories in Go](https://blog.splice.com/contributing-open-source-git-repositories-go/) by Katrina Owen
+* [Organizing Go Code](http://talks.golang.org/2014/organizeio.slide#1) by David Crawshaw
 
 ## Events
 
