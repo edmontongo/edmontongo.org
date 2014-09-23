@@ -14,7 +14,7 @@ We get started at 6:30 pm, pizza is provided.
 
 ### Docker [@fnichol](https://twitter.com/fnichol)
 
-Docker has been *taking the cloud by storm.* Come learn about containers and distributed applications. 
+Docker has been *taking the cloud by storm.* Come learn about containers and distributed applications. ([slides](https://speakerdeck.com/fnichol/edmonton-go-september-2014-docker))
 
 Related:
 
