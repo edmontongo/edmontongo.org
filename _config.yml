@@ -3,7 +3,7 @@ url: http://goedmoton.org/
 
 safe: true
 lsi: false
-pygments: true
+highlighter: true
 timezone: America/Edmonton
 exclude: ["Gemfile", "Gemfile.lock", "goedmonton.sublime-project"]
 
