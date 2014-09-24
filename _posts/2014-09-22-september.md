@@ -27,7 +27,7 @@ Building on the introduction to text/template from June, Matthias will show us h
 
 ### Packages and Dependencies [@nathany](https://twitter.com/nathany)
 
-Packages in the Go language and the surrounding tools.
+Packages in the Go language and the surrounding tools. ([slides](https://speakerdeck.com/nathany/go-packages))
 
 Related:
 
