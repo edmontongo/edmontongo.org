@@ -23,7 +23,7 @@ Related:
 
 ### HTML Templates [@MatthiasStone](https://twitter.com/MatthiasStone)
 
-Building on the introduction to text/template from June, Matthias will show us how to use the HTML template facilities that come with the Go standard library.
+Building on the introduction to text/template from June, Matthias will show us how to use the HTML template facilities that come with the Go standard library. ([code](https://github.com/edmontongo/presentations/tree/master/2014-09/html-templates))
 
 ### Packages and Dependencies [@nathany](https://twitter.com/nathany)
 
