@@ -1,0 +1,9 @@
+baseurl = "http://goedmoton.org/"
+languageCode = "en-us"
+title = "Edmonton Go"
+
+[permalinks]
+post = "/:filename/"
+
+[Params]
+GaugesId = "52d35022eddd5b04ef003140"

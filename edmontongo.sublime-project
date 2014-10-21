@@ -4,8 +4,7 @@
 		{
 			"folder_exclude_patterns":
 			[
-				".bundle",
-				"_site",
+				"public",
 				".sass-cache"
 			],
 			"path": "."
