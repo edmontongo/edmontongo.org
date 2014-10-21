@@ -1,2 +1,3 @@
-bundle exec sass --update _sass/all.sass:assets/all.css --load-path _sass/ --force --style compressed
-bundle exec jekyll doctor
+sass --update sass/all.sass:static/assets/all.css --load-path sass/ --force --style compressed
+# sassc -o static/assets/all.css -I sass/ -t compressed sass/all.sass
+hugo

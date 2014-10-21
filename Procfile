@@ -1,2 +1,2 @@
-jekyll: bundle exec jekyll server -w
-sass: bundle exec sass --watch _sass/all.sass:assets/all.css --load-path _sass/
+jekyll: hugo server --buildDrafts --watch
+sass: sass --watch sass/all.sass:static/assets/all.css --load-path sass/
