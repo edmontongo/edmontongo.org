@@ -1,14 +1,10 @@
 {{ partial "header.html" . }}
-{{ partial "synopsis.html" . }}
 
 <div id="page">
 
   <article>
     <section class="title">
       <h1>{{ .Title }}</h1>
-      <div class="meta">
-        <p>{{ .Date.Format "2 Jan 2006" }}</p>
-      </div>
     </section>
     <section class="content">
       {{ .Content }}
@@ -17,4 +13,13 @@
 
 </div>
 
-{{ partial "footer.html" . }}
+  <aside>
+
+    {{ partial "social.html" . }}
+
+  </aside>
+
+  {{ partial "analytics.html" . }}
+
+</body>
+</html>
