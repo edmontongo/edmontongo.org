@@ -8,7 +8,7 @@ On January 24, 2015 we will be hosting a Go Workshop taught by **William Kennedy
 
 ### What You Will Learn
 
-The day will cover:
+The day will cover the following [material](https://github.com/ArdanStudios/gotraining):
 
 * Language and Syntax
 * Arrays, Slices and Maps
