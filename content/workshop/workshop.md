@@ -31,17 +31,19 @@ Familiarity with the command line and previous programming experience is recomme
 
 <table cellpadding="4">
 <tr>
-    <td>Earlier bird pricing&nbsp;&nbsp;<br><small>through November 30 @23:59</small></td>
-    <td><strong>$99</strong></td>
-    <td><a href="https://www.eventbrite.ca/e/introduction-to-go-workshop-tickets-14428260315" class="button">Register Now</a></td>
+    <td><strike>Earlier bird pricing</strike>&nbsp;&nbsp;<br><small><strike>through November 30 @23:59</strike></small></td>
+    <td><strike>$99</strike></td>
+    <td></td>
 </tr>
 <tr>
     <td>Early bird pricing<br><small>through December 31 @23:59</small></td>
-    <td>$125</td>
+    <td><strong>$125</strong></td>
+    <td><a href="https://www.eventbrite.ca/e/introduction-to-go-workshop-tickets-14428260315" class="button">Register Now</a></td>
 </tr>
 <tr>
     <td>Regular price</td>
     <td>$150</td>
+    <td></td>
 </tr>
 </table>
 
