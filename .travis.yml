@@ -17,7 +17,7 @@ deploy:
   provider: s3
   access_key_id: AKIAI3MTTXNCRKL4O3IQ
   secret_access_key:
-    secure: gVd4PZlqPVP2dv0TO2JI5JMHfBycNiBfYZ76MChm/DVm1ZKAPWjaWvjeGKo3D89aHQS+H8nNhNDXPlpFqr/f0pbUdzbCoPIVK5PMuIm2aEpeocbKOlDGEmAFlqhUxgW/rXW5/47ExJwoUQXRXMf9/mFBaHBG2iFVLH1q5P8NC7w=
+    secure: F+DstXgQ0EHaVg0NY3WGSg94gvu/85Lvevm+pj3Es3scpSwKz8cB29VtClcJc5f6afyRQZgwnS2w5rV/RtwF9ubXZBL1nF/7w8dohRI7C0ZPCcTKGlRKDR3XwmRObrXeD/PYM6Ijx8J9i+m6lZ1qyhQ4OS9CwdfuDJKDSCJWXC0=
   region: us-east-1
   bucket: edmontongo.org
   skip_cleanup: true
