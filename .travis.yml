@@ -1,10 +1,26 @@
 sudo: false
 language: go
 go:
-  - 1.4
+- 1.4
 
 install:
-  - go get -v github.com/spf13/hugo
-script:
-  - hugo -v
+- go get -v github.com/spf13/hugo
 
+script:
+- hugo -v
+
+branches:
+  only:
+  - master
+
+deploy:
+  provider: s3
+  access_key_id: AKIAI3MTTXNCRKL4O3IQ
+  secret_access_key:
+    secure: gVd4PZlqPVP2dv0TO2JI5JMHfBycNiBfYZ76MChm/DVm1ZKAPWjaWvjeGKo3D89aHQS+H8nNhNDXPlpFqr/f0pbUdzbCoPIVK5PMuIm2aEpeocbKOlDGEmAFlqhUxgW/rXW5/47ExJwoUQXRXMf9/mFBaHBG2iFVLH1q5P8NC7w=
+  bucket: edmontongo.org
+  local-dir: public
+  acl: public_read
+  on:
+    repo: edmontongo/edmontongo.org
+    # branch: deploy
