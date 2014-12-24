@@ -7,7 +7,7 @@ install:
 - go get -v github.com/spf13/hugo
 
 script:
-- ./bin/sassc sass/all.sass static/assets/all.css --style compressed
+- $TRAVIS_BUILD_DIR/bin/sassc sass/all.sass static/assets/all.css --style compressed
 - hugo -v
 
 branches:
