@@ -1,12 +1,10 @@
 dependencies:
   pre:
-    - sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
-    - sudo apt-get update
-    - sudo apt-get install gcc-4.7 g++-4.7
     - bash ./install-hugo.sh
   cache_directories:
     - hugo_0.12_linux_amd64
 
 test:
   override:
+    - bin/sassc sass/all.sass static/assets/all.css --style compressed
     - hugo -v
