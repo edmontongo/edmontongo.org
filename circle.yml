@@ -1,10 +1,12 @@
 machine:
   environment:
     CIRCLE_BUILD_DIR: $HOME/$CIRCLE_PROJECT_REPONAME
+    PATH: $PATH:$CIRCLE_BUILD_DIR/bin
+  post:
+    - mkdir -p $CIRCLE_BUILD_DIR/bin
 
 dependencies:
   pre:
-    - mkdir -p $CIRCLE_BUILD_DIR/bin
     - bash ./install-sassc.sh
     - bash ./install-hugo.sh
   cache_directories:
@@ -12,5 +14,5 @@ dependencies:
 
 test:
   override:
-    - bin/sassc sass/all.sass static/assets/all.css --style compressed
-    - bin/hugo -v
+    - sassc sass/all.sass static/assets/all.css --style compressed
+    - hugo -v
