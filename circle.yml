@@ -4,12 +4,13 @@ machine:
 
 dependencies:
   pre:
+    - mkdir -p $CIRCLE_BUILD_DIR/bin
     - bash ./install-sassc.sh
     - bash ./install-hugo.sh
   cache_directories:
-    - hugo_0.12_linux_amd64
+    - bin
 
 test:
   override:
     - bin/sassc sass/all.sass static/assets/all.css --style compressed
-    - hugo -v
+    - bin/hugo -v

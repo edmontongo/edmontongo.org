@@ -4,9 +4,9 @@ set -e
 # sassc (3.0.2)
 if [ ! -e $CIRCLE_BUILD_DIR/bin/sassc ]; then
   export SASS_BUILD_DIR=$HOME/src/github.com/sass
-  mkdir -p $CIRCLE_BUILD_DIR/bin $SASS_BUILD_DIR
-
+  mkdir -p $SASS_BUILD_DIR
   cd $SASS_BUILD_DIR
+
   git clone --recursive https://github.com/sass/libsass.git -b 3.0.2
   git clone https://github.com/sass/sassc.git -b 3.0.2
 
