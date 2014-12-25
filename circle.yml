@@ -9,10 +9,14 @@ dependencies:
   pre:
     - bash ./install-sassc.sh
     - bash ./install-hugo.sh
+    - go get -v github.com/nathany/s3up
   cache_directories:
     - bin
+
 
 test:
   override:
     - sassc sass/all.sass static/assets/all.css --style compressed
     - hugo -v
+  post:
+    - s3up -source=public/ -bucket=edmontongo.org -key=$AWS_ACCESS_KEY_ID -secret=$AWS_SECRET_ACCESS_KEY
