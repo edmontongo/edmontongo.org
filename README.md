@@ -1,7 +1,9 @@
-Go Edmonton
+Edmonton Go
 ===========
 
-This is the content for the Go Edmonton web site.
+This is the content for the Edmonton Go web site.
+
+[![Circle CI](https://circleci.com/gh/edmontongo/edmontongo.org.svg?style=svg)](https://circleci.com/gh/edmontongo/edmontongo.org)
 
 ### Setup
 
