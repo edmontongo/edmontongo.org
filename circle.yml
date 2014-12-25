@@ -1,5 +1,6 @@
 dependencies:
   pre:
+    - bash ./install-sassc.sh
     - bash ./install-hugo.sh
   cache_directories:
     - hugo_0.12_linux_amd64
