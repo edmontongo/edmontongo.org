@@ -7,13 +7,9 @@ This is the content for the Edmonton Go web site.
 
 ### Setup
 
-* The `hugo` binary in your path, download at [gohugo.io](http://gohugo.io/).
-
-Symlink public to GitHub Pages repo:
-
-```console
-ln -s $GOPATH/src/github.com/edmontongo/edmontongo.github.io $GOPATH/src/github.com/edmontongo/edmontongo.org/public
-```
+* Install the `hugo` binary, download it at [gohugo.io](http://gohugo.io/).
+* Install [sassc](https://github.com/sass/sassc).
+  Mac: `brew install sassc`
 
 ### License
 
