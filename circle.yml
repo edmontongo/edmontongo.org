@@ -7,8 +7,8 @@ machine:
 
 dependencies:
   pre:
-    - bash ./install-sassc.sh
-    - bash ./install-hugo.sh
+    - bash ./ci-install-sassc.sh
+    - bash ./ci-install-hugo.sh
     - go get -v github.com/nathany/s3up
   cache_directories:
     - bin
