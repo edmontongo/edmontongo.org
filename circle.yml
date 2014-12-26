@@ -19,4 +19,5 @@ test:
     - sassc sass/all.sass static/assets/all.css --style compressed
     - hugo -v
   post:
-    - bash ./deploy.sh
+    - if [ $CIRCLE_BRANCH == 'master' ]; then s3up -source=public/ -bucket=edmontongo.org -key=$AWS_ACCESS_KEY_ID -secret=$AWS_SECRET_ACCESS_KEY ; fi
+
