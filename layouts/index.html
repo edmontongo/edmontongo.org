@@ -7,7 +7,7 @@
 
     <nav>
       <ul>
-        {{ range .Data.Pages }}
+        {{ range first 3 .Data.Pages }}
           <li>
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             <p class="meta">{{ .Date.Format "2 Jan 2006" }}</p>
