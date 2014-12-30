@@ -1,2 +1,2 @@
-hugo: hugo server --buildDrafts --watch
-sass: sass --watch sass/all.sass:static/assets/all.css --load-path sass/
+hugo: hugo server -D --watch
+sass: reflex -r '\.(sass|scss)$' -- sh -c 'sassc sass/all.sass static/assets/all.css --style compressed'
