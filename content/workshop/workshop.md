@@ -36,14 +36,14 @@ Familiarity with the command line and previous programming experience is recomme
     <td></td>
 </tr>
 <tr>
-    <td>Early bird pricing<br><small>through December 31 @23:59</small></td>
-    <td><strong>$125</strong></td>
-    <td><a href="https://www.eventbrite.ca/e/introduction-to-go-workshop-tickets-14428260315" class="button">Register Now</a></td>
+    <td><strike>Early bird pricing</strike><br><small><strike>through December 31 @23:59</strike></small></td>
+    <td><strike>$125</strike></td>
+    <td></td>
 </tr>
 <tr>
     <td>Regular price</td>
-    <td>$150</td>
-    <td></td>
+    <td><strong>$150</strong></td>
+    <td><a href="https://www.eventbrite.ca/e/introduction-to-go-workshop-tickets-14428260315" class="button">Register Now</a></td>
 </tr>
 </table>
 
