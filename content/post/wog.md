@@ -31,6 +31,4 @@ Monday, January 26th is our [regularly scheduled meetup](/2015-01/), with talks 
 
 Last year was loads of fun, with a [sphero zombie hacknight](/2014-08/) and [giant gopher cake](/2014-12/). Hope you join us this year for more fun, learning and sharing.
 
-
-
-
+<small>The fancy gopher was designed by [Renee French](http://reneefrench.blogspot.jp/). Winter gopher adapted by [Erick Zelaya](http://erickzelaya.me/), based on the original gopher by Renee French.</small>
