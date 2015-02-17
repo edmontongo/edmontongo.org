@@ -27,27 +27,6 @@ Tasty lunch and snacks will be provided.
 
 Familiarity with the command line and previous programming experience is recommended. Bring your own laptop.
 
-### Tickets
-
-<table cellpadding="4">
-<tr>
-    <td><strike>Earlier bird pricing</strike>&nbsp;&nbsp;<br><small><strike>through November 30 @23:59</strike></small></td>
-    <td><strike>$99</strike></td>
-    <td></td>
-</tr>
-<tr>
-    <td><strike>Early bird pricing</strike><br><small><strike>through December 31 @23:59</strike></small></td>
-    <td><strike>$125</strike></td>
-    <td></td>
-</tr>
-<tr>
-    <td>Regular price</td>
-    <td><strong>$150</strong></td>
-    <td><a href="https://www.eventbrite.ca/e/introduction-to-go-workshop-tickets-14428260315" class="button">Register Now</a></td>
-</tr>
-</table>
-
-
 
 [register]: https://www.eventbrite.ca/e/introduction-to-go-workshop-tickets-14428260315
 [plus]: https://plus.google.com/events/cc7og2dmu7ccqak7kkfsmus3pgc?authkey=CJeJ1rjv2JezpAE
