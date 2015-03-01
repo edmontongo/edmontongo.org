@@ -1,2 +1,7 @@
-reflex -r '\.(sass|scss)$' -- sh -c 'sassc sass/all.sass static/assets/all.css --style compressed' &
+SASSC_COMMAND='sassc sass/all.sass static/assets/all.css --style compressed'
+
+# execute SassC at startup
+eval $SASSC_COMMAND
+# watch Sass and Hugo files during development
+reflex -r '\.(sass|scss)$' -- ${SASSC_COMMAND} &
 hugo server -D --watch && fg
