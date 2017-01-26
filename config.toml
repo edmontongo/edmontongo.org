@@ -6,5 +6,3 @@ title = "Edmonton Go"
 post = "/:filename/"
 workshop = "/:filename/"
 
-[Params]
-GaugesId = "52d35022eddd5b04ef003140"
