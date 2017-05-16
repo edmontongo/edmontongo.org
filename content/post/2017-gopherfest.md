@@ -29,14 +29,6 @@ We will be streaming the [GopherFest 2017](https://www.meetup.com/golangsf/event
 
 Francesc Campoy Flores will talk about the history of Go, the growth of the community, and current state and future of the language we love.
 
-### Rob Pike on Upspin
-
-Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts. It is not a file system, but a set of protocols and reference implementations that can be used to join things like file systems and other storage services to the name space.
-
-Performance is not a primary goal. Uniformity and security are. 
-
-Per Rob: Note that this is a project IN Go not ABOUT Go
-
 ### Event Sourcing Architectures and Patterns by Matt Ho
 
 Event sourcing and other applications of append-only logs have experienced a renaissance in recent years. From git, to Kafka, to block chains, the use of append-only logs is on the rise.
@@ -44,6 +36,14 @@ Event sourcing and other applications of append-only logs have experienced a ren
 In this talk, Matt Ho will cover the benefits of event sourcing and how to get started with it using Go. He'll provide the background of event sourcing along with simple illustration of how event-sourcing might be applied to a domain entity. 
 
 He'll go in-depth on how event sourcing can address challenges posed by transactional integrity, dual writes, and scaling – issues which are increasing in importance given the rise of REST-based microservices.
+
+### Rob Pike on Upspin
+
+Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts. It is not a file system, but a set of protocols and reference implementations that can be used to join things like file systems and other storage services to the name space.
+
+Performance is not a primary goal. Uniformity and security are. 
+
+Per Rob: Note that this is a project IN Go not ABOUT Go
 
 ### Lessons Learned from a Context-NATS Integration by Waldemar Quevedo
 
