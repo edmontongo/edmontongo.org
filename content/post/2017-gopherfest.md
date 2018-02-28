@@ -13,7 +13,7 @@ NOTE: Please try to arrive before 7:30, as the doors will be locked after 7:30 p
 
 ## Sponsors 
 
-Venue provided by [Startup Edmonton](http://www.startupedmonton.com/).
+Venue provided by [Startup Edmonton](https://www.startupedmonton.com/).
 
 Snacks sponsored by [Bellstone Engineering](https://bellstone.ca/). 
 

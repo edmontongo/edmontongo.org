@@ -11,7 +11,7 @@ description = "Three events for gophers of all skill levels."
 
 [Gopher Gala](http://www.gophergala.com/) is a distributed 48-hour hackathon for the Go programming language. Register and build something awesome!
 
-You can fly solo or form a team of up to four people. To hack from Startup Edmonton, you can [also register here](http://www.meetup.com/startupedmonton/events/219629529/). Startup Edmonton will be open the full 48 hours. Things kick off Friday, January 23 at 6pm and go until Sunday at 6pm.
+You can fly solo or form a team of up to four people. To hack from Startup Edmonton, you can [also register here](https://www.meetup.com/startupedmonton/events/219629529/). Startup Edmonton will be open the full 48 hours. Things kick off Friday, January 23 at 6pm and go until Sunday at 6pm.
 
 [Global Game Jam](http://madjam.ca/ggj) is happening the same weekend. Why not register for both and make a game in Go!
 
@@ -21,7 +21,7 @@ You can fly solo or form a team of up to four people. To hack from Startup Edmon
 
 If you are new to Go or would like to round out your knowledge of the fundamentals, we are hosting a [one-day workshop](/workshop/) on Saturday, January 24.
 
-**William Kennedy**, co-author of [Go in Action](http://manning.com/ketelsen/), is flying in from Miama to lead the course. [Tickets are available](https://www.eventbrite.ca/e/introduction-to-go-workshop-tickets-14428260315) for $150 -- a discount on his regular Bootcamp pricing. Lunch, coffee and cool swag included.
+**William Kennedy**, co-author of [Go in Action](https://www.manning.com/books/go-in-action), is flying in from Miama to lead the course. [Tickets are available](https://www.eventbrite.ca/e/introduction-to-go-workshop-tickets-14428260315) for $150 -- a discount on his regular Bootcamp pricing. Lunch, coffee and cool swag included.
 
 If you would like to put into practice what you've learned, register for the Gopher Gala too and see if you can join a team for Sunday.
 

@@ -6,7 +6,7 @@ description = "Introduction to Go Workshop"
 
 <img src="/assets/images/william.png" class="right">
 
-On January 24, 2015 we will be hosting a Go Workshop taught by **William Kennedy** of [GoingGo.net](http://www.goinggo.net/), co-author of [Go in Action](http://manning.com/ketelsen/) and [trainer extraordinaire](http://www.ardanlabs.com/).
+On January 24, 2015 we will be hosting a Go Workshop taught by **William Kennedy** of [GoingGo.net](https://www.ardanlabs.com/blog/), co-author of [Go in Action](https://www.manning.com/books/go-in-action) and [trainer extraordinaire](https://www.ardanlabs.com/).
 
 ### What You Will Learn
 
@@ -31,4 +31,3 @@ Familiarity with the command line and previous programming experience is recomme
 [register]: https://www.eventbrite.ca/e/introduction-to-go-workshop-tickets-14428260315
 [plus]: https://plus.google.com/events/cc7og2dmu7ccqak7kkfsmus3pgc?authkey=CJeJ1rjv2JezpAE
 
-[goinggo]: http://www.goinggo.net/

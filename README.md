@@ -7,7 +7,7 @@ This is the content for the Edmonton Go web site.
 
 ### Setup
 
-* Install the `hugo` binary, download it at [gohugo.io](http://gohugo.io/).
+* Install the `hugo` binary, download it at [gohugo.io](https://gohugo.io/).
 * Install [sassc](https://github.com/sass/sassc).
   Mac: `brew install sassc`
 * SassC doesn't watch for file changes, but you can use [Reflex](https://github.com/cespare/reflex).
