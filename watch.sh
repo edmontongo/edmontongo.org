@@ -11,6 +11,6 @@ killgroup(){
 
 # watch Sass and Hugo files during development
 notify -c "${SASSC_COMMAND}" sass/** &
-hugo server -v -D -F --watch && fg
+hugo server -D -F --watch && fg
 
 
