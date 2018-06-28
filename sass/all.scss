@@ -1,13 +1,15 @@
 // Vendor
-@import "normalize", "webicons"
+@import "normalize";
+@import "webicons";
+@import "layout";
+@import "colors";
+@import "button";
 
-@import "layout", "colors"
+img.right {
+  float: right;
+}
 
-@import "button"
-
-img.right
-  float: right
-
-img.left
-  float: left
-  margin-right: 1rem
+img.left {
+  float: left;
+  margin-right: 1rem;
+}

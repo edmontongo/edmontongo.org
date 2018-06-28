@@ -1,4 +1,4 @@
-SASSC_COMMAND='sassc sass/all.sass static/assets/all.css --style compressed'
+SASSC_COMMAND='sassc sass/all.scss static/assets/all.css --style compressed'
 
 # execute SassC at startup
 eval $SASSC_COMMAND
