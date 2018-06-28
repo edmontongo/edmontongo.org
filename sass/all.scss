@@ -13,27 +13,3 @@ img.left {
   margin-right: 1rem;
 }
 
-.site {
-  display: grid;
-  grid-template-areas: "header" "synopsis" "main" "location" "social";
-}
-
-.header {
-  grid-area: "header";
-}
-
-.synopsis {
-  grid-area: "synopsis";
-}
-
-.main {
-  grid-area: "main";
-}
-
-.location {
-  grid-area: "location";
-}
-
-.social {
-  grid-area: "social";
-}
