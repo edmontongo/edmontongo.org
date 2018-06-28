@@ -33,6 +33,9 @@ nav.horizontal ul li {
 
 .location {
   grid-area: location;
+  p {
+    font-weight: bold;
+  }
 }
 
 .social {
