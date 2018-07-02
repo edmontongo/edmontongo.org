@@ -32,7 +32,7 @@ jobs:
             - /home/circleci/bin
       - run:
           name: Sass Build
-          command: $HOME/bin/sassc sass/all.sass static/assets/all.css --style compressed
+          command: $HOME/bin/sassc sass/all.scss static/assets/all.css --style compressed
       - run:
           name: Hugo Build
           command: $HOME/bin/hugo -v -F --destination workspace/public

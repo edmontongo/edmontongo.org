@@ -1,0 +1,14 @@
+// Flag of Edmonton https://en.wikipedia.org/wiki/File:Flag_of_Edmonton.svg
+$blue: #008dd5;
+$purple: #a887be;
+
+a:link,
+a:visited {
+  color: $blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $purple;
+  text-decoration: underline;
+}

@@ -1,0 +1,51 @@
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav.horizontal ul li {
+  display: inline-block;
+}
+
+.site {
+  display: grid;
+  padding: 0 1rem;
+  grid-template-columns: 1fr;
+  grid-template-areas: "header" "synopsis" "main" "location" "social";
+}
+
+.header {
+  grid-area: header;
+}
+
+.synopsis {
+  grid-area: synopsis;
+}
+
+.main-content {
+  grid-area: main;
+}
+
+.location {
+  grid-area: location;
+  p {
+    font-weight: bold;
+  }
+}
+
+.social {
+  grid-area: social;
+}
+
+@media screen and (min-width: 35.5em){
+  .site {
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-areas: 
+      "header header header" 
+      "synopsis synopsis synopsis" 
+      "main main location" 
+      "main main location" 
+      "main main location" 
+      "social social social";
+  }  
+}

@@ -1,7 +1,6 @@
-{{ partial "header.html" . }}
+{{ partial "head.html" . }}
 
-<div id="page">
-
+<div id="main" style="margin:0 1rem">
   <article>
     <section class="title">
       <h1>{{ .Title }}</h1>
@@ -10,14 +9,11 @@
       {{ .Content }}
     </section>
   </article>
-
 </div>
 
-  <aside>
+{{ partial "social.html" . }}
 
-    {{ partial "social.html" . }}
-
-  </aside>
+</div>
 
 </body>
 </html>
