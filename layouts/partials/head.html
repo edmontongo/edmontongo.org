@@ -7,7 +7,14 @@
   <title>Edmonton Go: {{ .Title }}</title>
   <link rel="canonical" href="{{ .Permalink }}">
   <meta name="google-site-verification" content="EesR8siX5ZhCkifF0oZAk04ZDF-TXub5WDl-cAxyMVg" />
-  <link rel="stylesheet" href="/assets/all.css">
+  {{ $cssOpts := (dict "targetPath" "assets/main.css" ) }}
+  {{ if .Site.IsServer }}
+    {{ $styles := resources.Get "sass/all.scss" | toCSS $cssOpts }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+  {{ else }}
+    {{ $styles := resources.Get "sass/all.scss" | toCSS $cssOpts | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}"  integrity="{{ $styles.Data.Integrity }}" media="screen">
+  {{ end }}
   <link rel="icon" type="image/png" href="/favicon.png">
 </head>
 <body>
