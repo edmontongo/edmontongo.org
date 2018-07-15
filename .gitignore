@@ -2,4 +2,4 @@ public
 *.sublime-project
 .sass-cache
 cert/**/*
-static/assets/all.css
+resources/_gen
