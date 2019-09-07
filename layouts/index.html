@@ -8,7 +8,7 @@
   <article>
     <nav>
       <ul>
-        {{ range first 3 .Data.Pages }}
+        {{ range first 3 .Site.RegularPages }}
           <li>
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             <p class="meta">{{ .Date.Format "2 Jan 2006" }}</p>
