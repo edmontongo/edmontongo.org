@@ -4,8 +4,8 @@ jobs:
     docker:
       - image: circleci/golang:latest
         environment:
-          HUGO_VERSION: 0.51
-          S3DEPLOY_VERSION: 2.2.0
+          HUGO_VERSION: 0.58.1
+          S3DEPLOY_VERSION: 2.3.2
     steps:
       - checkout
       - restore_cache:
