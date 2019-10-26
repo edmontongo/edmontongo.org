@@ -12,7 +12,7 @@ This is the content for the Edmonton Go web site.
 
 GitHub Actions automatically deploy the website when changes are merged to master.
 
-* [edmontongo.org.s3-website-us-east-1.amazonaws.com](http://edmontongo.org.s3-website-us-east-1.amazonaws.com/) is a website endpoint on Amazon S3.
+* [edmontongo.org.s3-website.ca-central-1.amazonaws.com](http://edmontongo.org.s3-website.ca-central-1.amazonaws.com/) is a website endpoint on Amazon S3.
 * [edmontongo.org](https://edmontongo.org/) is cached on CloudFlare with Flexible SSL enabled.
 
 ### License
