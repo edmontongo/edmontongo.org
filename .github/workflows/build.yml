@@ -19,7 +19,7 @@ jobs:
       - name: Hugo Build
         run: $HOME/hugo -v -F
       - name: Deploy to S3
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/main'
         run: $HOME/hugo -v deploy --maxDeletes -1
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
