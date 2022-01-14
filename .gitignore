@@ -3,3 +3,4 @@ public
 .sass-cache
 cert/**/*
 resources/_gen
+.hugo_build.lock
