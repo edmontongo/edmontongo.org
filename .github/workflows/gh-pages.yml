@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --cleanDestinationDir -F --minify
+        run: hugo -F --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
