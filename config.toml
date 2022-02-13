@@ -1,23 +1,17 @@
-baseurl = "https://edmontongo.org/"
-languageCode = "en-us"
-title = "Edmonton Go"
+baseURL = 'https://edmontongo.org/'
+languageCode = 'en-us'
+title = 'Edmonton Go'
+theme = 'edmontongo'
+Paginate = 3
+
+[params]
+author = "Peter Preeper"
+description = "Edmonton Go Meetup"
 
 [permalinks]
-post = "/:filename/"
-workshop = "/:filename/"
+year = "/meetup/:slug/"
+tag = "/tags/:slug/"
 
-[deployment]
-order = [".png$", ".jpg$", ".gif$", ".svg$"]
-
-[[deployment.targets]]
-URL = "s3://edmontongo.org?region=ca-central-1"
-
-[[deployment.matchers]]
-# Cache static assets for 20 years.
-pattern = "^.+\\.(js|css|png|jpg|gif|svg|ttf)$"
-cacheControl = "max-age=630720000, no-transform, public"
-gzip = true
-
-[[deployment.matchers]]
-pattern = "^.+\\.(html|xml|json)$"
-gzip = true
+[taxonomies]
+year = "year"
+tag = "tags"
