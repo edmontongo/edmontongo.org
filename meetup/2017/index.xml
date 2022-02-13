@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2017 on Edmonton Go</title><link>https://edmontongo.org/meetup/2017/</link><description>Recent content in 2017 on Edmonton Go</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://edmontongo.org/meetup/2017/index.xml" rel="self" type="application/rss+xml"/><item><title>November 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-11/</link><pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-11/</guid><description>Meetup #44. Please RSVP at Meetup.
+We get started at 6:30 pm.
+Sponsors Venue provided by Startup Edmonton.
+Food sponsored by Bellstone Engineering.
+Talks Concurrency in Go: An Introduction to Channels Tobias Renwick (code)
+News Participate in the 2017 Go User Survey Eight years of Go The new pprof user interface Events Monthly Hack Day - Dec 2 Edmonton Go Meetup - January</description></item><item><title>October 2017</title><link>https://edmontongo.org/meetup/2017-10/</link><pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-10/</guid><description>This month we will be joining Hacktoberfest at Yellowhead Brewery in place of our regularly scheduled meetup.
+Or you can attend the Edmonton Python User Group at Startup Edmonton.
+Events Monthly Hack Day - Nov 4 Edmonton Go Meetup - November</description></item><item><title>September 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-09/</link><pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-09/</guid><description>Meetup #43. Please RSVP at Meetup.
+We get started at 6:30 pm.
+Sponsors Venue provided by Startup Edmonton.
+Food sponsored by Bellstone Engineering.
+Talks My first three months with Go Brett Anderson (slides)
+gotest in color Peter Preeper (slides)
+News Go: Ten years and climbing by Rob Pike Golang Conference UK 2017 videos go test with colors by JBD The new kid in town — Go&amp;rsquo;s sync.Map by Ralph Caraveo III Events Monthly Hack Day - Oct 14 Startup Week Edmonton - Oct 16 - 20 Hacktoberfest - Oct 23 Edmonton Go Hacktoberfest Edmonton Go Meetup - November</description></item><item><title>August 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-08/</link><pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-08/</guid><description>Meetup #42. Please RSVP at Meetup.
+We get started at 6:30 pm.
+Sponsors Venue provided by Startup Edmonton.
+Food sponsored by Bellstone Engineering.
+Talks Intro to database/sql Nicholas Boers (slides, code)
+Test Helper Functions Adam Wolfe Gordon
+vendor/... James Bell
+News &amp;amp; Articles Go 1.9 is released Go 1.9 Release Party GoSF (video) Go 1.9 Release Party (slides) by Dave Cheney Cute Gophers (plushies) Events Monthly Hack Day - Sep 9 Edmonton Go Meetup - September</description></item><item><title>July 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-07/</link><pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-07/</guid><description>Meetup #41. Please RSVP at Meetup.
+We get started at 6:30 pm.
+Sponsors Venue provided by Startup Edmonton.
+Activities GopherCon recap News GopherCon videos, lightning talks, slides, and liveblog. Toward Go 2 Go experience report: the append function Should Go 2.0 support generics? TIOBE: Go language at all time high and in the top 10 Go 1.9 comes to 64-bit ARM Abundant concurrency in Go Hyperproductive development Jobs Local Web Developer at Beamdog (JavaScript, Ruby) DevOps Engineer at Beamdog (Chef, AWS) Web Developer at Paper Leaf (WordPress, Frontend) .</description></item><item><title>June 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-06/</link><pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-06/</guid><description>Meetup #40. Please RSVP at Meetup.
+We get started at 6:30 pm.
+Sponsors Venue provided by Startup Edmonton.
+Talks Structured logging Adam Wolfe Gordon (slides PDF, code)
+Effective error handling Gerrit Renker (slides)
+News Go 1.9 beta 2 Go 1.9 draft release notes What’s new in Google’s Go 1.9 language InfoWorld Web Development with Go Jonathan Calhoun Ultimate Go Programming LiveLessons William Kennedy Events GopherCon July 12-15 Edmonton Go Meetup - July</description></item><item><title>May 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-05/</link><pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-05/</guid><description>Meetup #39. Please RSVP at Meetup.
+We get started at 6:30 pm.
+Sponsors Venue provided by Startup Edmonton.
+Food sponsored by Bellstone Engineering.
+Talks Code Generation Gerrit Renker (slides)
+dep Nathan Youngman (slides)
+Activities Kick the tires on dep, now that the manifest files are considered stable. Bring your laptop and a Go project if you have one. Events Monthly Hack Day - Jun 3 GopherCon July 12-15 Edmonton Go Meetup - June</description></item><item><title>GopherFest 2017</title><link>https://edmontongo.org/meetup/2017-gopherfest/</link><pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-gopherfest/</guid><description>Please RSVP at Meetup.
+We get started at 7:00 pm.
+NOTE: Please try to arrive before 7:30, as the doors will be locked after 7:30 pm. If you arrive late, ask to be let in.
+Sponsors Venue provided by Startup Edmonton.
+Snacks sponsored by Bellstone Engineering.
+Talks We will be streaming the GopherFest 2017 event live from San Francisco.
+7:00 Socialize (snacks provided) 7:55 Live streaming begins in the Program Room 10:00 Talks wrap up State of Go Francesc Campoy Flores</description></item><item><title>April 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-04/</link><pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-04/</guid><description>Meetup #38. Please RSVP at Meetup.
+We get started at 6:30 pm.
+Sponsors Venue provided by Startup Edmonton.
+Talks Diet Hacks Nathan Youngman (slides)
+Reactive Programming in Go Gerrit Renker (slides)
+Events DemoCamp 36 - May 2 Monthly Hack Day - May 6 GopherCon July 12-15 Edmonton Go Meetup - May</description></item><item><title>March 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-03/</link><pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-03/</guid><description>Meetup #37. Please RSVP at Meetup.
+We get started at 6:30 pm.
+Sponsors Venue provided by Startup Edmonton.
+Food sponsored by Bellstone Engineering.
+Talks Goroutines An introduction to goroutines by Nathan Youngman (slides).
+Un-Paralleled Concurrency Introduction to concurrency patterns in Go by Gerrit Renker (slides).
+Gotrace Concurrency tracer and visualizer (source) demonstration by Matthias Stone
+The atomic package Atomic memory primitives by Lukasz Rozycki (slides).
+News Women Who Go to GopherCon fundraiser WWG Gophercon Scholarship Events Monthly Hack Day - April 1 GopherCon July 12-15 Edmonton Go Meetup - April</description></item><item><title>February 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-02/</link><pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-02/</guid><description>Meetup #36. Please RSVP at Meetup.
+We get started at 6:30 pm.
+Sponsors Venue provided by Startup Edmonton.
+Food sponsored by Bellstone Engineering.
+Talks Plugins Grant Hunter, voiced by Brett McKay and Stefan Martynkiw (code)
+HTTP Server Graceful Shutdown Lukasz Rozycki (slides)
+The default GOPATH Rebecca Walton (slides)
+sort.Slice James Bell (code)
+database/sql context Matthias Stone (slides)
+What&amp;#39;s Next for Go Nathan Youngman (slides)
+News Gopherize.me avatar generator Go 1.</description></item><item><title>January 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-01/</link><pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-01/</guid><description>Meetup #35. Please RSVP at Meetup.
+We get started at 6:30 pm.
+Sponsors Venue provided by Startup Edmonton.
+Food sponsored by Bellstone Engineering.
+Talks Interfaces in Go Brett McKay is speaking about interfaces in Go (slides).
+Protocol Buffers and gRPC in Go Adam Wolfe Gordon is presenting Protocol Buffers and gRPC in Go. (slides, code)
+News Go 1.8 Release Candidate 2 Go 1.8 draft release notes The Saga of Go Dependency Management Buffalo web development eco-system Events Web Development with Buffalo - Jan 31 at noon MST Rapid Web Development with Buffalo and Ponzu - Feb 2 at 11am MST Monthly Hack Day - Feb 4 Edmonton Go Meetup - February GopherCon July 12-15</description></item></channel></rss>
