@@ -1,0 +1,11 @@
+{{ define "main" }}
+<h2 class="title mt-2 mb-2">{{ .Title }}</h2>
+
+<span class="tags">
+  tags: {{ range $index, $element := (.Params.Tags) }}
+  {{- if $index -}} , {{- end -}}
+  <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+  {{ end }}
+</span>
+
+{{ .Content }} {{ end }}
