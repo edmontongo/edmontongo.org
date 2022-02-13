@@ -14,7 +14,7 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
-          
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --cleanDestinationDir -F --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
