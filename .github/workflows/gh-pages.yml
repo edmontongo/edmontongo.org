@@ -25,7 +25,7 @@ jobs:
         run: hugo -F --minify
         
       - name: CNAME
-        run: echo "edmontongo.org" > ./build/CNAME
+        run: echo "edmontongo.org" > ./build/CNAME && gh-pages -d build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
