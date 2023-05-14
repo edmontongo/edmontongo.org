@@ -9,9 +9,9 @@ description = "Three events for gophers of all skill levels."
 
 {{< mh2 "Gopher Gala" >}}
 
-{{< figure src="/images/can-i-haz-cake.jpg" title="Giant Gopher Cake" class="left" width="534px" height="285px" >}}
+{{< figure src="/images/can-i-haz-cake.jpg" title="Giant Gopher Cake" class="left" width="534px" height="285px" alt="Giant Gopher Cake" >}}
 
-{{< figure src="/images/fancy_gopher.jpg" title="Designed by Renee French" width="132px" height="150px" >}}
+{{< figure src="/images/fancy_gopher.jpg" title="Designed by Renee French" width="132px" height="150px" alt="Fancy Gopher Designed by Renee French" >}}
 
 [Gopher Gala](http://www.gophergala.com/) is a distributed 48-hour hackathon for the Go programming language. Register and build something awesome!
 
