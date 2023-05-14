@@ -122,7 +122,7 @@ We get started at 6:30 pm.
 Sponsors Venue provided by Startup Edmonton.
 Lightning Talks Automate Git Repository Bisection with Go Test by Peter Preeper (slides) Coding Practice Bring a laptop and/or a friend. We will be working in teams, so deep experience with Go is not required.
 Install Go on your laptop in advance or use The Go Playground.
-News Go 1.</description></item><item><title>January 2018 Meetup</title><link>https://edmontongo.org/meetup/2018-01/</link><pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2018-01/</guid><description>Meetup #45. Please RSVP at Meetup.
+News Go 1.10 released The State of Go What&amp;rsquo;s new in Go 1.</description></item><item><title>January 2018 Meetup</title><link>https://edmontongo.org/meetup/2018-01/</link><pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2018-01/</guid><description>Meetup #45. Please RSVP at Meetup.
 We get started at 6:30 pm.
 Sponsors Venue provided by Startup Edmonton.
 Food sponsored by Bellstone Engineering.
@@ -191,7 +191,7 @@ The default GOPATH Rebecca Walton (slides)
 sort.Slice James Bell (code)
 database/sql context Matthias Stone (slides)
 What&amp;#39;s Next for Go Nathan Youngman (slides)
-News Gopherize.me avatar generator Go 1.</description></item><item><title>January 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-01/</link><pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-01/</guid><description>Meetup #35. Please RSVP at Meetup.
+News Gopherize.me avatar generator Go 1.8 release Go 1.</description></item><item><title>January 2017 Meetup</title><link>https://edmontongo.org/meetup/2017-01/</link><pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2017-01/</guid><description>Meetup #35. Please RSVP at Meetup.
 We get started at 6:30 pm.
 Sponsors Venue provided by Startup Edmonton.
 Food sponsored by Bellstone Engineering.
@@ -249,7 +249,7 @@ We get things started at 6:30 pm.
 Sponsors Food provided by Bellstone Engineering.
 Venue provided by Startup Edmonton.
 eBook Giveaway from Manning Publications:
-Go in Practice by Matt Butcher and Matt Farina MongoDB in Action, Second Edition by Kyle Banker, Peter Bakkum, Shaun Verch, Douglas Garrett, and Tim Hawkins Redis in Action by Josiah Carlson Talks Go 1.6 was released on February 17th.</description></item><item><title>January 2016 Meetup</title><link>https://edmontongo.org/meetup/2016-01/</link><pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2016-01/</guid><description>Please RSVP at Meetup or Google+.
+Go in Practice by Matt Butcher and Matt Farina MongoDB in Action, Second Edition by Kyle Banker, Peter Bakkum, Shaun Verch, Douglas Garrett, and Tim Hawkins Redis in Action by Josiah Carlson Talks Go 1.6 was released on February 17th. We will be discussing the changes during our February meetup.</description></item><item><title>January 2016 Meetup</title><link>https://edmontongo.org/meetup/2016-01/</link><pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2016-01/</guid><description>Please RSVP at Meetup or Google+.
 We get things started at 6:30 pm.
 Sponsors Pizza provided by Bellstone Engineering and they&amp;rsquo;re hiring. Venue provided by Startup Edmonton.
 Manning Publications eBook Giveaway:
@@ -309,7 +309,7 @@ Talks Amazon S3 with Go Nathan Youngman (s3up source)
 Error Handling In Go William Kennedy (GothamGo video, slides)
 News Go 1.4.1 release GopherCon 2015 Tickets Available GopherCon 2015 Call for Proposals Go Newsletter 41, now published by Cooper Press. Improvements on gopkg.in by Gustavo Niemeyer Google Aims at Bootstrapping Go 1.5 Gopher Gala Submissions (Gift by Scott Brooks) Edmonton Go Workshop Photos Jobs Trumpet in Calgary, AB Articles Errors Errors Are Values by Rob Pike Error Handling In Go by William Kennedy Concurrent Error Handling by John Schaeffer Errors and Exceptions, redux by Dave Cheney Opinion Why Tech Startups Should Look At Go by William Kennedy Golang is Trash by Keith Wesolowski Comparing Go and .</description></item><item><title>Introduction to Go Workshop</title><link>https://edmontongo.org/workshop/workshop/</link><pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate><guid>https://edmontongo.org/workshop/workshop/</guid><description>William Kennedy On January 24, 2015 we will be hosting a Go Workshop taught by William Kennedy of GoingGo.net, co-author of Go in Action and trainer extraordinaire.
 What You Will Learn The day will cover the following material:
-Language and Syntax Arrays, Slices and Maps Methods, Interfaces and Embedding Types Concurrency and Channels Schedule The workshop starts at 9:00 am sharp and ends at 5 pm.</description></item><item><title>Weekend of Go</title><link>https://edmontongo.org/meetup/wog/</link><pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/wog/</guid><description>Gopher Gala Giant Gopher Cake Designed by Renee French Gopher Gala is a distributed 48-hour hackathon for the Go programming language. Register and build something awesome!
+Language and Syntax Arrays, Slices and Maps Methods, Interfaces and Embedding Types Concurrency and Channels Schedule The workshop starts at 9:00 am sharp and ends at 5 pm. Come 30 minutes early if you need help setting up a Go environment.</description></item><item><title>Weekend of Go</title><link>https://edmontongo.org/meetup/wog/</link><pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/wog/</guid><description>Gopher Gala Giant Gopher Cake Designed by Renee French Gopher Gala is a distributed 48-hour hackathon for the Go programming language. Register and build something awesome!
 You can fly solo or form a team of up to four people. To hack from Startup Edmonton, you can also register here. Startup Edmonton will be open the full 48 hours. Things kick off Friday, January 23 at 6pm and go until Sunday at 6pm.</description></item><item><title>December 2014 Meetup</title><link>https://edmontongo.org/meetup/2014-12/</link><pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate><guid>https://edmontongo.org/meetup/2014-12/</guid><description>Food at 6:30 pm. Video at 7:00.
 Please RSVP at Meetup or Google+.
 Movie Night Best Practices for Production Environments by Peter Bourgon A Channel Compendium by John Graham-Cumming Matthias baked this giant gopher cake for our belated Five Years of Go celebration.
