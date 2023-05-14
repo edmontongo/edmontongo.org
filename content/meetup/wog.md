@@ -9,9 +9,9 @@ description = "Three events for gophers of all skill levels."
 
 {{< mh2 "Gopher Gala" >}}
 
-{{< figure src="/images/can-i-haz-cake.jpg" title="Giant Gopher Cake" class="left" >}}
+{{< figure src="/images/can-i-haz-cake.jpg" title="Giant Gopher Cake" class="left" width="534px" height="285px" >}}
 
-{{< figure src="/images/fancy_gopher.jpg" title="Designed by Renee French"  >}}
+{{< figure src="/images/fancy_gopher.jpg" title="Designed by Renee French" width="132px" height="150px" >}}
 
 [Gopher Gala](http://www.gophergala.com/) is a distributed 48-hour hackathon for the Go programming language. Register and build something awesome!
 
@@ -21,7 +21,7 @@ You can fly solo or form a team of up to four people. To hack from Startup Edmon
 
 {{< mh2 "Go Workshop" >}}
 
-{{< figure src="/images/wiliam_kennedy_wearing_hat.jpg" title="William Kennedy wearing hat" class="left" >}}
+{{< figure src="/images/wiliam_kennedy_wearing_hat.jpg" title="William Kennedy wearing hat" class="left" width="150px" height="150px" >}}
 
 If you are new to Go or would like to round out your knowledge of the fundamentals, we are hosting a [one-day workshop](/workshop/) on Saturday, January 24.
 

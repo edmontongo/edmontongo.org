@@ -5,7 +5,7 @@ year = "2015"
 description = "Introduction to Go Workshop"
 +++
 
-{{< figure src="/images/william.png" title="William Kennedy" class="right" >}}
+{{< figure src="/images/william.png" title="William Kennedy" class="right" width="137px" height="162px" >}}
 
 On January 24, 2015 we will be hosting a Go Workshop taught by **William Kennedy** of [GoingGo.net](https://www.ardanlabs.com/blog/), co-author of [Go in Action](https://www.manning.com/books/go-in-action) and [trainer extraordinaire](https://www.ardanlabs.com/).
 
