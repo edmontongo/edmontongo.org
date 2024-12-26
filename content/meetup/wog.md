@@ -1,13 +1,13 @@
-+++
-title = "Weekend of Go"
-date = "2015-01-23"
-year = "2015"
-draft = false
-tags = ["golang", "hackathon", "workshop"]
-description = "Three events for gophers of all skill levels."
-+++
+---
+title: "Weekend of Go"
+date: "2015-01-23"
 
-{{< mh2 "Gopher Gala" >}}
+draft: false
+tags: ["golang", "hackathon", "workshop"]
+description: "Three events for gophers of all skill levels."
+---
+
+## Gopher Gala
 
 {{< figure src="/images/can-i-haz-cake.jpg" title="Giant Gopher Cake" class="left" width="534px" height="285px" alt="Giant Gopher Cake" >}}
 
@@ -19,7 +19,7 @@ You can fly solo or form a team of up to four people. To hack from Startup Edmon
 
 [Global Game Jam](http://madjam.ca/ggj) is happening the same weekend. Why not register for both and make a game in Go!
 
-{{< mh2 "Go Workshop" >}}
+## Go Workshop
 
 {{< figure src="/images/wiliam_kennedy_wearing_hat.jpg" title="William Kennedy wearing hat" class="left" width="150px" height="150px" >}}
 
@@ -29,7 +29,7 @@ If you are new to Go or would like to round out your knowledge of the fundamenta
 
 If you would like to put into practice what you've learned, register for the Gopher Gala too and see if you can join a team for Sunday.
 
-{{< mh2 "Edmonton Go Meetup" >}}
+## Edmonton Go Meetup
 
 Monday, January 26th is our [regularly scheduled meetup](/2015-01/), with talks from community members.
 

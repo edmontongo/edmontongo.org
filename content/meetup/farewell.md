@@ -1,11 +1,11 @@
-+++
-title = "Farewell"
-date = "2022-01-13"
-year = "2022"
-draft = true
-tags = ["golang", "user group", "Edmonton", "YEG"]
-description = "Edmonton Go is no more"
-+++
+---
+title: "Farewell"
+description: "Edmonton Go is no more"
+date: "2022-01-13"
+draft: true
+tags: ["golang", "usergroup", "Edmonton", "YEG"]
+---
+{{< description >}}
 
 The Edmonton Go meetup started in 2014, thanks to the support of [Startup Edmonton](https://www.startupedmonton.com).
 

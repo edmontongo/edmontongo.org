@@ -5,24 +5,32 @@ on:
     branches:
       - main
   pull_request:
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.23'
+          architecture: 'amd64'
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "latest"
           extended: true
 
       - name: Build
-        run: hugo --gc --minify
+        run: |
+          hugo mod get -u github.com/imfing/hextra
+          hugo --gc --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

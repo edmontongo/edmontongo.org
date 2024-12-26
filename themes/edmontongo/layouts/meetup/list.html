@@ -1,9 +1,0 @@
-{{ define "main" }}
-
-<h2 class="title">{{ .Title }}</h2>
-{{ template "_internal/pagination.html" . }}
-{{ range .Paginator.Pages }}
-<h2 class="title mt-2 mb-2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-<h3 class="subtitle mt-2 mb-2">{{ .Description }}</h3>
-<p>{{ .Summary }}</p>
-{{ end }} {{ end }}

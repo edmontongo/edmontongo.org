@@ -1,11 +1,11 @@
-+++
-title = "Two Year Recap"
-date = "2015-11-25"
-year = "2015"
-draft = false
-tags = ["golang", "user group", "meetup", "edmonton", "yeg"]
-description = "Thank you"
-+++
+---
+title: "Two Year Recap"
+description: "Thank you"
+date: "2015-11-25"
+draft: false
+tags: ["golang", "usergroup", "meetup", "edmonton", "yeg"]
+---
+{{< description >}}
 
 Two years ago Edmonton Go was just an idea. Thanks to Startup Edmonton for generously providing the space, and to Daniel Huckstep for the requisite kick-in-the-pants, January 27, 2014 marked our first meetup.
 
