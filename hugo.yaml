@@ -51,6 +51,11 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: false
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      index: content
 
 menu:
   main:

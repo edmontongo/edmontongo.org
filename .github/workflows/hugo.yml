@@ -15,6 +15,7 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
+
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
@@ -28,9 +29,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: |
-          hugo mod get -u github.com/imfing/hextra
-          hugo --gc --minify
+        run: hugo --gc --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
