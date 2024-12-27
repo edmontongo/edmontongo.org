@@ -1,0 +1,40 @@
+baseURL = "https://edmontongo.org/"
+title = "Edmonton Go"
+copyright = "Edmonton Go"
+languageCode = "en"
+
+
+theme = "hugo-clarity"
+DefaultContentLanguage = "en"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML","RSS","JSON"]
+
+[pagination]
+pagerSize = 4
+
+[deployment]
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg|gif|webp)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+pattern = "^sitemap\\.xml$"
+contentType = "application/xml"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
+

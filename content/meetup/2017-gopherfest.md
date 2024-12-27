@@ -1,12 +1,9 @@
 ---
-title: "GopherFest 2017"
-description: "Live from SF"
+title: "GopherFest 2017: Live from SF"
 date: "2017-05-15"
 draft: false
-tags: ["golang", "usergroup", "gopherfest", "livestream", "edmonton", "yeg"]
+tags: ["gopherfest", "livestream", "messaging"]
 ---
-{{< description >}}
-
 Please **RSVP** at [Meetup](https://www.meetup.com/startupedmonton/events/239918270/).
 
 We get started at 7:00 pm.
@@ -27,13 +24,13 @@ We will be streaming the [GopherFest 2017](https://www.meetup.com/golangsf/event
 - 7:55 [Live streaming](https://www.youtube.com/watch?v=giUatBmmb_Y) begins in the Program Room
 - 10:00 Talks wrap up
 
-## State of Go
+### State of Go
 
 Francesc Campoy Flores
 
 Francesc Campoy Flores will talk about the history of Go, the growth of the community, and current state and future of the language we love.
 
-## Event Sourcing Architectures and Patterns
+### Event Sourcing Architectures and Patterns
 
 Event sourcing and other applications of append-only logs have experienced a renaissance in recent years. From git, to Kafka, to block chains, the use of append-only logs is on the rise.
 
@@ -41,7 +38,7 @@ In this talk, Matt Ho will cover the benefits of event sourcing and how to get s
 
 He'll go in-depth on how event sourcing can address challenges posed by transactional integrity, dual writes, and scaling – issues which are increasing in importance given the rise of REST-based microservices.
 
-## Rob Pike on Upspin
+### Rob Pike on Upspin
 
 Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts. It is not a file system, but a set of protocols and reference implementations that can be used to join things like file systems and other storage services to the name space.
 
@@ -49,7 +46,7 @@ Performance is not a primary goal. Uniformity and security are.
 
 Per Rob: Note that this is a project IN Go not ABOUT Go
 
-## Lessons Learned from a Context-NATS Integration
+### Lessons Learned from a Context-NATS Integration
 
 The Context package has been a popular topic in the Go community. It carries a variety of details across API boundaries and between processes.
 

@@ -1,3 +1,1 @@
-hugo server -D -F --watch
-
-
+hugo server -D -F --disableFastRender --gc --watch

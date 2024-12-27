@@ -1,12 +1,9 @@
 ---
-title: "Two Year Recap"
-description: "Thank you"
+title: "Two Year Recap: Thank you"
 date: "2015-11-25"
 draft: false
-tags: ["golang", "usergroup", "meetup", "edmonton", "yeg"]
+tags: ["celebration"]
 ---
-{{< description >}}
-
 Two years ago Edmonton Go was just an idea. Thanks to Startup Edmonton for generously providing the space, and to Daniel Huckstep for the requisite kick-in-the-pants, January 27, 2014 marked our first meetup.
 
 Together we've enjoyed talks, discussions, code reading, hack nights, videos, workshops, cake eating, sphero battles, and other activities. A dozen people delivered 34 talks, sharing their knowledge and experience with everyone. Thank you so much for your contribution!

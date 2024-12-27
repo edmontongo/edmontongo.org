@@ -1,12 +1,9 @@
 ---
-title: "Weekend of Go"
+title: "Weekend of Go: Three events for gophers of all skill levels."
 date: "2015-01-23"
-
 draft: false
 tags: ["golang", "hackathon", "workshop"]
-description: "Three events for gophers of all skill levels."
 ---
-
 ## Gopher Gala
 
 {{< figure src="/images/can-i-haz-cake.jpg" title="Giant Gopher Cake" class="left" width="534px" height="285px" alt="Giant Gopher Cake" >}}

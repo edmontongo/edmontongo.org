@@ -1,0 +1,28 @@
+# menus
+[[main]]
+name = "Meetups"
+url = "/meetup/"
+weight = 1
+
+[[main]]
+name = "Workshops"
+url="/workshop/"
+weight = 2
+
+[[main]]
+name = "About Us"
+url="/about/"
+weight = 3
+
+# social menu links
+
+[[social]]
+name = "github"
+type = "social"
+weight = 1
+url = "https://github.com/edmontongo"
+
+[[social]]
+name = "rss"
+weight = 4
+url = "index.xml"
