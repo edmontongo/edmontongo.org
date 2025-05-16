@@ -1,9 +1,6 @@
-Edmonton Go
-===========
+# Edmonton Go
 
 This is the content for the Edmonton Go web site.
-
-> This project was archived in January 2022.
 
 ### License
 

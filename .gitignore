@@ -4,3 +4,4 @@ public
 cert/**/*
 resources/_gen
 .hugo_build.lock
+builder.sh
