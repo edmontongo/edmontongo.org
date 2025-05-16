@@ -4,7 +4,7 @@ copyright = "Edmonton Go"
 languageCode = "en"
 
 
-theme = "hugo-clarity"
+theme = "clarity"
 DefaultContentLanguage = "en"
 
 [taxonomies]
