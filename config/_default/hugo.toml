@@ -41,7 +41,7 @@ pattern = "^.+\\.(html|xml|json)$"
 [[headers]]
 for = "/**"
 [headers.values]
-Content-Security-Policy = "default-src 'self'; script-src 'self' trusteddomain.com;"
+Content-Security-Policy = "default-src 'self'; script-src 'self' edmontongo.org;"
 # Add other security headers here
 Feature-Policy = "vibrate 'none'; geolocation 'none'"
 Permissions-Policy = "geolocation=(), microphone=()"
