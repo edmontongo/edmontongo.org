@@ -1,40 +1,52 @@
 baseURL = "https://edmontongo.org/"
-title = "Edmonton Go"
 copyright = "Edmonton Go"
 languageCode = "en"
+title = "Edmonton Go"
 
-
-theme = "clarity"
 DefaultContentLanguage = "en"
+theme = "clarity"
 
 [taxonomies]
 category = "categories"
-tag = "tags"
 series = "series"
+tag = "tags"
 
 [outputs]
-home = ["HTML","RSS","JSON"]
+home = ["HTML", "RSS", "JSON"]
 
 [pagination]
 pagerSize = 4
 
 [deployment]
 [[deployment.matchers]]
-pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
 cacheControl = "max-age=31536000, no-transform, public"
 gzip = true
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
 
 [[deployment.matchers]]
-pattern = "^.+\\.(png|jpg|gif|webp)$"
 cacheControl = "max-age=31536000, no-transform, public"
 gzip = false
+pattern = "^.+\\.(png|jpg|gif|webp)$"
 
 [[deployment.matchers]]
-pattern = "^sitemap\\.xml$"
 contentType = "application/xml"
 gzip = true
+pattern = "^sitemap\\.xml$"
 
 [[deployment.matchers]]
-pattern = "^.+\\.(html|xml|json)$"
 gzip = true
+pattern = "^.+\\.(html|xml|json)$"
 
+# hugo.toml example
+[[headers]]
+for = "/**"
+[headers.values]
+Content-Security-Policy = "default-src 'self'; script-src 'self' trusteddomain.com;"
+# Add other security headers here
+Feature-Policy = "vibrate 'none'; geolocation 'none'"
+Permissions-Policy = "geolocation=(), microphone=()"
+Referrer-Policy = "no-referrer-when-downgrade"
+Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+X-Content-Type-Options = "nosniff"
+X-Frame-Options = "DENY"
+X-XSS-Protection = "1; mode=block"
