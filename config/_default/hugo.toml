@@ -1,6 +1,6 @@
 baseURL = "https://edmontongo.org/"
 copyright = "Edmonton Go"
-languageCode = "en"
+locale = "en"
 title = "Edmonton Go"
 
 DefaultContentLanguage = "en"
