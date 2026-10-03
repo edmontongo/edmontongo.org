@@ -27,5 +27,4 @@ Tasty lunch and snacks will be provided.
 
 Familiarity with the command line and previous programming experience is recommended. Bring your own laptop.
 
-[register]: https://www.eventbrite.ca/e/introduction-to-go-workshop-tickets-14428260315
 [plus]: https://plus.google.com/events/cc7og2dmu7ccqak7kkfsmus3pgc?authkey=CJeJ1rjv2JezpAE
