@@ -1,7 +1,7 @@
 baseURL = "https://edmontongo.org/"
-copyright = "Edmonton Go"
+copyright = "Edmonton Go Tech Meetup"
 locale = "en"
-title = "Edmonton Go"
+title = "Edmonton Go Tech Meetup"
 
 DefaultContentLanguage = "en"
 theme = "clarity"

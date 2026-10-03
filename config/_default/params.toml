@@ -1,7 +1,7 @@
 enableSearch = true
 since = 2014
 
-description = "Edmonton Go Meetup"
+description = "Go, backend & open-source infrastructure — Edmonton's tech meetup"
 
 # Logo image
 # logo = "favicon.svg"
@@ -34,3 +34,23 @@ numberOfTagsShown = 14
 
 [author]
 name = "Peter Preeper"
+
+# Meeting schedule (used by the {{< location >}} shortcode).
+# NOTE: move to the third Thursday is pending final confirmation with the venue.
+meetingDay = "Third Thursday"
+meetingTime = "6:00 pm"
+
+# Comments are shown only on blog posts. To enable:
+#   1. Turn on GitHub Discussions for edmontongo/edmontongo.org and create a
+#      category for comments.
+#   2. Install the giscus app (https://github.com/apps/giscus) on the repo.
+#   3. Fill in giscusRepoId + giscusCategoryId below, then set giscus = true.
+giscus = false
+giscusRepo = "edmontongo/edmontongo.org"
+giscusRepoId = ""
+giscusCategory = "Announcements"
+giscusCategoryId = ""
+giscusMapping = "pathname"
+giscusReactionsEnabled = "1"
+giscusTheme = "dark-dimmed"
+giscusLang = "en"

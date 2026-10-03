@@ -5,14 +5,29 @@ url = "/meetup/"
 weight = 1
 
 [[main]]
-name = "Workshops"
-url="/workshop/"
+name = "Presentations"
+url = "/presentations/"
 weight = 2
 
 [[main]]
-name = "About Us"
-url="/about/"
+name = "Blog"
+url = "/blog/"
 weight = 3
+
+[[main]]
+name = "Program"
+url = "/program/"
+weight = 4
+
+[[main]]
+name = "Get Involved"
+url = "/get-involved/"
+weight = 5
+
+[[main]]
+name = "About Us"
+url = "/about/"
+weight = 6
 
 # social menu links
 

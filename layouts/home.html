@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="grid-inverse wrap content">
+  <div>
+    {{- with .Content }}
+      <article class="post_content">
+        <div class="post_body">{{ . }}</div>
+      </article>
+    {{ end }}
+  </div>
+  {{- partial "search-sidebar" . }}
+</div>
+{{ end }}
