@@ -1,0 +1,715 @@
+{
+  "generated": "2026-10-03",
+  "years": [
+    {
+      "year": "2026",
+      "meetups": [
+        {
+          "title": "September 2026 Go Meetup",
+          "date": "2026-09-16",
+          "url": "/meetup/2026-09/",
+          "talks": [
+            {
+              "title": "Unbounded Concurrency",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2026-09/unbound_concurrency"
+            }
+          ]
+        },
+        {
+          "title": "June 2026 Go Meetup",
+          "date": "2026-06-17",
+          "url": "/meetup/2026-06/",
+          "talks": [
+            {
+              "title": "Software Bill of Materials (SBOM): What it Is? Why Does it Matter?",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2026-06/sbom"
+            }
+          ]
+        },
+        {
+          "title": "February 2026 Go Meetup",
+          "date": "2026-02-18",
+          "url": "/meetup/2026-02/",
+          "talks": [
+            {
+              "title": "Using Go for Scripts",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2026-02/goscripts"
+            }
+          ]
+        },
+        {
+          "title": "January 2026 Go Meetup",
+          "date": "2026-01-21",
+          "url": "/meetup/2026-01/",
+          "talks": [
+            {
+              "title": "Deduplicating data with content-defined chunking",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2026-01/dedupdata"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "meetups": [
+        {
+          "title": "November 2025 Go Meetup",
+          "date": "2025-11-19",
+          "url": "/meetup/2025-11/",
+          "talks": [
+            {
+              "title": "Go for Web Development",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2025-11/webdev"
+            }
+          ]
+        },
+        {
+          "title": "October 2025 Go Meetup",
+          "date": "2025-10-15",
+          "url": "/meetup/2025-10/",
+          "talks": [
+            {
+              "title": "Go Interfaces",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2025-10/interfaces"
+            }
+          ]
+        },
+        {
+          "title": "September 2025 Go Meetup",
+          "date": "2025-09-17",
+          "url": "/meetup/2025-09/",
+          "talks": [
+            {
+              "title": "Benchmarking Redo",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2025-08/benchmarking"
+            },
+            {
+              "title": "How RSA keys work",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2025-09/rsatalk"
+            }
+          ]
+        },
+        {
+          "title": "August 2025 Go Meetup",
+          "date": "2025-08-20",
+          "url": "/meetup/2025-08/",
+          "talks": [
+            {
+              "title": "Go 1.25 Release",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2025-08/go125"
+            }
+          ]
+        },
+        {
+          "title": "July 2025 Go Meetup",
+          "date": "2025-07-16",
+          "url": "/meetup/2025-07/",
+          "talks": [
+            {
+              "title": "Hello, World! Your first Go program",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2025-07/hello-world"
+            },
+            {
+              "title": "Go Todo",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2025-07/go-todo"
+            }
+          ]
+        },
+        {
+          "title": "June 2025 Go Meetup is Back!",
+          "date": "2025-06-18",
+          "url": "/meetup/2025-06/",
+          "talks": [
+            {
+              "title": "Why Go?",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2025-06/why-go"
+            },
+            {
+              "title": "Why Not Go?",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2025-06/why-not-go"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "meetups": [
+        {
+          "title": "February 2022 Online: Go 1.18 New Features",
+          "date": "2022-02-17",
+          "url": "/meetup/2022-02/",
+          "talks": [
+            {
+              "title": "Go 1.18 New Feature: Generics",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2022-02/generics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "meetups": [
+        {
+          "title": "April 2021 Online: Google Cloud Functions",
+          "date": "2021-04-26",
+          "url": "/meetup/2021-04/",
+          "talks": [
+            {
+              "title": "Google Cloud Functions",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2021-04/google-cloud-functions"
+            }
+          ]
+        },
+        {
+          "title": "February 2021 Online: Error handling discussion",
+          "date": "2021-02-22",
+          "url": "/meetup/2021-02/",
+          "talks": [
+            {
+              "title": "Error Handling discussion",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2021-02/errors113"
+            }
+          ]
+        },
+        {
+          "title": "January 2021 Online: Four Go-to packages",
+          "date": "2021-01-23",
+          "url": "/meetup/2021-01/",
+          "talks": [
+            {
+              "title": "Four Go-to Packages",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2021-01/go-to-packages/4-go-to-packages.slide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "meetups": [
+        {
+          "title": "September 2019: Challenge",
+          "date": "2019-09-23",
+          "url": "/meetup/2019-09/",
+          "talks": [
+            {
+              "title": "What's New in Go 1.13",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2019-09/go1.13.slide"
+            },
+            {
+              "title": "Challengs",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2019-09/pizza-challenge/pizza.slide"
+            }
+          ]
+        },
+        {
+          "title": "May 2019: Serverless",
+          "date": "2019-05-27",
+          "url": "/meetup/2019-05/",
+          "talks": [
+            {
+              "title": "Go Func Yourself! A brief introduction to serverless Go",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2019-05/serverless-go"
+            }
+          ]
+        },
+        {
+          "title": "April 2019: Deployment discussion",
+          "date": "2019-04-22",
+          "url": "/meetup/2019-04/",
+          "talks": [
+            {
+              "title": "Go and Docker",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2019-04/godocker"
+            }
+          ]
+        },
+        {
+          "title": "March 2019: functional",
+          "date": "2019-03-25",
+          "url": "/meetup/2019-03/",
+          "talks": [
+            {
+              "title": "Functional Go: How well does Go Support Functional Programming?",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2019-03/functional-go"
+            }
+          ]
+        },
+        {
+          "title": "January 2019: Go and Node",
+          "date": "2019-01-28",
+          "url": "/meetup/2019-01/",
+          "talks": [
+            {
+              "title": "Go and Node.js: A comparison",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2019-01/go-and-node"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "meetups": [
+        {
+          "title": "Go for Web Developers Workshop Part II",
+          "date": "2018-10-22",
+          "url": "/meetup/2018-10-22/",
+          "talks": [
+            {
+              "title": "Workshop",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2018-10/workshop-two/workshop-two.slide"
+            }
+          ]
+        },
+        {
+          "title": "Go for Web Developers Workshop Part I",
+          "date": "2018-10-15",
+          "url": "/meetup/2018-10-15/",
+          "talks": [
+            {
+              "title": "Workshop",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2018-10/workshop-one/workshop-one.slide"
+            }
+          ]
+        },
+        {
+          "title": "September 2018: testing",
+          "date": "2018-09-24",
+          "url": "/meetup/2018-09/",
+          "talks": [
+            {
+              "title": "Unit Testing Code with Hard-to-Mock Dependencies",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2018-09/unit-testing.pdf"
+            }
+          ]
+        },
+        {
+          "title": "August 2018: Go 1.11",
+          "date": "2018-08-27",
+          "url": "/meetup/2018-08/",
+          "talks": [
+            {
+              "title": "Go modules quick overview",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2018-08/modules.slide"
+            }
+          ]
+        },
+        {
+          "title": "July 2018: Hugo",
+          "date": "2018-07-23",
+          "url": "/meetup/2018-07/",
+          "talks": [
+            {
+              "title": "What's new in Hugo",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2018-07/pipes/pipes.slide"
+            }
+          ]
+        },
+        {
+          "title": "June 2018: Community",
+          "date": "2018-06-25",
+          "url": "/meetup/2018-06/",
+          "talks": [
+            {
+              "title": "Discussion",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2018-06/community/community.slide"
+            }
+          ]
+        },
+        {
+          "title": "February 2018: lightning talks and coding practice",
+          "date": "2018-02-26",
+          "url": "/meetup/2018-02/",
+          "talks": [
+            {
+              "title": "Lightning Talks",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2018-02/automate_gitbisect/automate_bisection.slide"
+            },
+            {
+              "title": "Coding Practice",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2018-02/practice"
+            }
+          ]
+        },
+        {
+          "title": "January 2018: functional errors",
+          "date": "2018-01-22",
+          "url": "/meetup/2018-01/",
+          "talks": [
+            {
+              "title": "Functional Options Pattern",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2018-01/functional-options/2018-01-22_Functional%20Options%20Pattern.pdf"
+            },
+            {
+              "title": "To err is human",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2018-01/err/err.slide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "meetups": [
+        {
+          "title": "November 2017: Concurrency",
+          "date": "2017-11-27",
+          "url": "/meetup/2017-11/",
+          "talks": [
+            {
+              "title": "Concurrency in Go: An Introduction to Channels",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2017-11"
+            }
+          ]
+        },
+        {
+          "title": "September 2017: Go Experience",
+          "date": "2017-09-25",
+          "url": "/meetup/2017-09/",
+          "talks": [
+            {
+              "title": "gotest in color",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-09/gotest-colors/gotest-colors.slide"
+            }
+          ]
+        },
+        {
+          "title": "August 2017: Go 1.9 & SQL",
+          "date": "2017-08-28",
+          "url": "/meetup/2017-08/",
+          "talks": [
+            {
+              "title": "Intro to database/sql",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-08/intro-to-database-sql/database-sql.slide"
+            }
+          ]
+        },
+        {
+          "title": "June 2017: Error log",
+          "date": "2017-06-26",
+          "url": "/meetup/2017-06/",
+          "talks": [
+            {
+              "title": "Structured logging",
+              "url": "https://github.com/edmontongo/presentations/raw/main/2017-06/structured-logging/2017-06-26_structured-logging.pdf"
+            },
+            {
+              "title": "Effective error handling",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-06/error-handling/error_handling.slide"
+            }
+          ]
+        },
+        {
+          "title": "May 2017: Generation dep",
+          "date": "2017-05-29",
+          "url": "/meetup/2017-05/",
+          "talks": [
+            {
+              "title": "Code Generation",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-05/code-generation/code_generation.slide"
+            },
+            {
+              "title": "dep",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-05/dep/dep.slide"
+            }
+          ]
+        },
+        {
+          "title": "April 2017: Reactive",
+          "date": "2017-04-24",
+          "url": "/meetup/2017-04/",
+          "talks": [
+            {
+              "title": "Reactive Programming in Go",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-04/Reactive-Go/reactive_go.slide"
+            }
+          ]
+        },
+        {
+          "title": "March 2017: Concurrency",
+          "date": "2017-03-27",
+          "url": "/meetup/2017-03/",
+          "talks": [
+            {
+              "title": "Goroutines",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-03/goroutines/goroutines.slide"
+            },
+            {
+              "title": "Un-Paralleled Concurrency",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-03/basic_concurrency_patterns/basic_concurrency_patterns.slide"
+            },
+            {
+              "title": "The atomic package",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-03/atomic.slide"
+            }
+          ]
+        },
+        {
+          "title": "February 2017: Go 1.8 Release Party",
+          "date": "2017-02-27",
+          "url": "/meetup/2017-02/",
+          "talks": [
+            {
+              "title": "HTTP Server Graceful Shutdown",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-02/http-shutdown.slide"
+            },
+            {
+              "title": "The default GOPATH",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-02/gopath.slide"
+            },
+            {
+              "title": "sort.Slice",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2017-02/sort-slice"
+            },
+            {
+              "title": "database/sql context",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-02/db-context.slide"
+            },
+            {
+              "title": "What's Next for Go",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-02/proposals/next.slide"
+            }
+          ]
+        },
+        {
+          "title": "January 2017: Interfaces and Protocol Buffers",
+          "date": "2017-01-23",
+          "url": "/meetup/2017-01/",
+          "talks": [
+            {
+              "title": "Interfaces in Go",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-01/simple_interface/talk.slide"
+            },
+            {
+              "title": "Protocol Buffers and gRPC in Go",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2017-01/protobufs-and-grpc/grpc.slide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "meetups": [
+        {
+          "title": "November 2016: Concurrency and GOPL",
+          "date": "2016-11-28",
+          "url": "/meetup/2016-11/",
+          "talks": [
+            {
+              "title": "Coding for Concurrency: Processes, Threads, and Goroutines",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2016-11/CodingForConcurrency.pdf"
+            }
+          ]
+        },
+        {
+          "title": "October 2016: Barriers",
+          "date": "2016-10-24",
+          "url": "/meetup/2016-10/",
+          "talks": [
+            {
+              "title": "Barrier Pattern in Go (with Context)",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2016-10/barrier_pattern_with_context/barrier_pattern.slide"
+            }
+          ]
+        },
+        {
+          "title": "May 2016: App Engine, Stateful Messaging",
+          "date": "2016-05-30",
+          "url": "/meetup/2016-05/",
+          "talks": [
+            {
+              "title": "Google App Engine",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2016-05/appengine/appengine.slide"
+            },
+            {
+              "title": "Stateful Messaging",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2016-05/Stateful-Messaging-in-Go/slides/sp.slide"
+            }
+          ]
+        },
+        {
+          "title": "April 2016: Testing",
+          "date": "2016-04-25",
+          "url": "/meetup/2016-04/",
+          "talks": [
+            {
+              "title": "Testing concurrent things",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2016-04/concurrent-testing.slide"
+            }
+          ]
+        },
+        {
+          "title": "March 2016: Web apps",
+          "date": "2016-03-21",
+          "url": "/meetup/2016-03/",
+          "talks": [
+            {
+              "title": "Shopping is hard, let's build a web app",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2016-03/Shopping%20is%20Hard/go__shopping-is-hard.slide"
+            }
+          ]
+        },
+        {
+          "title": "February 2016: Go 1.6 release party",
+          "date": "2016-02-22",
+          "url": "/meetup/2016-02/",
+          "talks": [
+            {
+              "title": "What's new in managing third-party dependencies?",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2016-02/vendor_experiment1.6/vendor_experiment.pdf"
+            },
+            {
+              "title": "What's new in cgo?",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2016-02/pointers1.6.slide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "meetups": [
+        {
+          "title": "November 2015: Job queues",
+          "date": "2015-11-23",
+          "url": "/meetup/2015-11/",
+          "talks": [
+            {
+              "title": "Messaging patterns and job queues in Go",
+              "url": "https://github.com/edmontongo/presentations/raw/main/2015-11/MOMs/Messaging_and_Job_Queues_in_Go.pdf"
+            }
+          ]
+        },
+        {
+          "title": "September 2015: gorename and FFI",
+          "date": "2015-09-28",
+          "url": "/meetup/2015-09/",
+          "talks": [
+            {
+              "title": "gorename - how the sausage is made",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2015-09/tooling.slide"
+            }
+          ]
+        },
+        {
+          "title": "August 2015: Reflection and SDN",
+          "date": "2015-08-24",
+          "url": "/meetup/2015-08/",
+          "talks": [
+            {
+              "title": "Introduction to Reflection",
+              "url": "https://github.com/edmontongo/presentations/blob/main/2015-08/reflection/reflect-talk.slide"
+            },
+            {
+              "title": "Software Defined Networking",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2015-08/SDN"
+            }
+          ]
+        },
+        {
+          "title": "July 2015: GopherCon recap",
+          "date": "2015-07-27",
+          "url": "/meetup/2015-07/",
+          "talks": [
+            {
+              "title": "Command line user interfaces",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2015-07/commandline-gui"
+            }
+          ]
+        },
+        {
+          "title": "February 2015: Gala Postmortem & Databases.",
+          "date": "2015-02-23",
+          "url": "/meetup/2015-02/",
+          "talks": [
+            {
+              "title": "Go and Databases",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2015-02/database"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "meetups": [
+        {
+          "title": "September 2014: Docker, Templates, Packages.",
+          "date": "2014-09-22",
+          "url": "/meetup/2014-09/",
+          "talks": [
+            {
+              "title": "HTML Templates",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2014-09/html-templates"
+            }
+          ]
+        },
+        {
+          "title": "July 2014: Hello Go, Movie Night.",
+          "date": "2014-07-28",
+          "url": "/meetup/2014-07/",
+          "talks": [
+            {
+              "title": "Hello Go",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2014-07/hellogo"
+            }
+          ]
+        },
+        {
+          "title": "March 2014: Testing, Delegation & C.",
+          "date": "2014-03-24",
+          "url": "/meetup/2014-03/",
+          "talks": [
+            {
+              "title": "Testing in Go: What You Need to Know",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2014-03/testing-basics"
+            },
+            {
+              "title": "Composition & Delegation",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2014-03/composition"
+            },
+            {
+              "title": "Go's Secret C Interface",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2014-03/asm"
+            }
+          ]
+        },
+        {
+          "title": "February 2014: Interfaces & Iterators",
+          "date": "2014-02-24",
+          "url": "/meetup/2014-02/",
+          "talks": [
+            {
+              "title": "Duck Hunt: Interfaces",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2014-02/duck"
+            },
+            {
+              "title": "Iteration in Go",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2014-02/iteration"
+            }
+          ]
+        },
+        {
+          "title": "2014-01",
+          "date": "2014-01-27",
+          "url": "/meetup/2014-01/",
+          "talks": [
+            {
+              "title": "Celsius: Types Are Cool",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2014-01/celsius"
+            },
+            {
+              "title": "Concurrency Is Not Parallelism",
+              "url": "https://github.com/edmontongo/presentations/tree/main/2014-01/robpike"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

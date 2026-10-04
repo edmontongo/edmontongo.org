@@ -4,7 +4,7 @@ date: "2022-01-13"
 draft: true
 tags: ["golang", "usergroup", "Edmonton", "YEG"]
 ---
-The Edmonton Go meetup started in 2014, thanks to the support of [Startup Edmonton](https://www.startupedmonton.com).
+The Edmonton Go meetup started in 2014, thanks to the support of Startup Edmonton.
 
 It has been fun, but interest in organizing these meetups has dwindled, especially in light of the pandemic.
 

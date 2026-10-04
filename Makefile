@@ -13,3 +13,7 @@ build:
 	export HUGO_ENVIRONMENT="production"; \
 	export HUGO_ENV="production"; \
 	hugo --gc --minify -F -b "$${BURL}"
+
+.PHONY: presentations
+presentations:
+	@python3 scripts/generate_presentations.py

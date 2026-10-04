@@ -1,10 +1,11 @@
 baseURL = "https://edmontongo.org/"
-copyright = "Edmonton Go"
+copyright = "Edmonton Go Tech Meetup"
 locale = "en"
-title = "Edmonton Go"
+title = "Edmonton Go Tech Meetup"
 
 DefaultContentLanguage = "en"
 theme = "clarity"
+enableRobotsTXT = true
 
 [taxonomies]
 category = "categories"
@@ -36,17 +37,3 @@ pattern = "^sitemap\\.xml$"
 [[deployment.matchers]]
 gzip = true
 pattern = "^.+\\.(html|xml|json)$"
-
-# hugo.toml example
-[[headers]]
-for = "/**"
-[headers.values]
-Content-Security-Policy = "default-src 'self'; script-src 'self' edmontongo.org;"
-# Add other security headers here
-Feature-Policy = "vibrate 'none'; geolocation 'none'"
-Permissions-Policy = "geolocation=(), microphone=()"
-Referrer-Policy = "strict-origin-when-cross-origin"
-Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
-X-Content-Type-Options = "nosniff"
-X-Frame-Options = "DENY"
-X-XSS-Protection = "1; mode=block"

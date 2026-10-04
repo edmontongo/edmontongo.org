@@ -1,0 +1,7 @@
+<div class="post_comments">
+  {{- /* Comments are enabled only on blog posts, and only once the giscus
+         params are configured in config/_default/params.toml. */}}
+  {{- if and (eq .Section "blog") .Site.Params.giscus }}
+    {{- partial "giscus.html" . }}
+  {{- end }}
+</div>

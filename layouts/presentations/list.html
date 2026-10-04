@@ -1,0 +1,45 @@
+{{ define "main" }}
+<div class="grid-inverse wrap content">
+  <div>
+    <article class="post">
+      <div class="post_content">
+        <h1 class="post_title">{{ .Title }}</h1>
+        {{ .Content }}
+
+        {{ with hugo.Data.presentations }}
+          {{ with .years }}
+            <p class="presentations_jump">
+              Jump to:
+              {{ range $i, $y := . }}{{ if $i }} &middot; {{ end }}<a href="#year-{{ $y.year }}">{{ $y.year }}</a>{{ end }}
+            </p>
+            {{ range . }}
+              <h2 id="year-{{ .year }}">{{ .year }}</h2>
+              {{ range .meetups }}
+                <h3><a href="{{ .url }}">{{ .title }}</a></h3>
+                <ul>
+                  {{ range .talks }}
+                    <li><a href="{{ .url }}">{{ .title }}</a></li>
+                  {{ end }}
+                </ul>
+              {{ end }}
+            {{ end }}
+          {{ else }}
+            <p>No presentations have been linked yet.</p>
+          {{ end }}
+        {{ else }}
+          <p>No presentations data has been generated yet. Run
+            <code>python3 scripts/generate_presentations.py</code>.</p>
+        {{ end }}
+
+        <p class="presentations_note">
+          Slides and demo code live in the
+          <a href="https://github.com/edmontongo/presentations">edmontongo/presentations</a>
+          repository. Spotted a missing talk? Add a presentation link to the relevant
+          meetup page.
+        </p>
+      </div>
+    </article>
+  </div>
+  {{- partial "search-sidebar" . }}
+</div>
+{{ end }}
